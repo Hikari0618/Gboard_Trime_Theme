@@ -1,29 +1,15 @@
 # 高仿Gboard同文输入法主题
 
 ### 效果预览
-![](./Preview/IMG_20250119_133405.jpg)
-![](./Preview/IMG_20250119_133415.jpg)
-![](./Preview/IMG_20250119_133430.jpg)
-![](./Preview/IMG_20250121_204013.jpg)
-![](./Preview/IMG_20250121_204004.jpg)
+将原本的长按输入符号改成了上划输入符号，并将符号和键位的布局微调，使其在日常使用方面更接近搜狗输入法，底栏设置参考简纯
+![](./Preview/IMG_20260620_162645.jpg)  
+![](./Preview/IMG_20260620_162629.jpg)  
+![](./Preview/IMG_20260620_162616.jpg)  
+![](./Preview/IMG_20260620_162718.jpg)  
+![](./Preview/IMG_20260620_162707.jpg)  
+![](./Preview/IMG_20260620_162656.jpg)
 
-### 附带我的快捷栏代码
-```yaml
-    switches:
-  - name: transcription
-    states: [ 简体 , 繁体 ]
-    reset: 0
-  - name: ascii_punct
-    states: [ 中符 , 英符 ]
-    reset: 0
-  - options: [_key_VoidSymbol]
-    states: ["           "]
-  - options: [ _key_liquid_keyboard_emoji ]
-    states: [ 😁️ ]
-  - options: [ _key_liquid_keyboard_clipboard ]
-    states: [ 📋 ]
-  - options: [ _keyboard_numberb ]
-    states: [ <I> ]
-  - options: [_key_Hide]
-    states: ["︾"]
-```
+### 温馨提示
+
+下载主题文键的同时也要将附带的iconfont.ttf放在与主题文件的同一个目录中
+
