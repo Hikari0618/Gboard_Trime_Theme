@@ -6,8 +6,8 @@
 # encoding: utf-8
 
 config_version: "3.0"
-name: 认真的π          #方案名称
-author: 认真的π        #作者信息
+name: Gboard          #方案名称
+author: 认真的π、Hikari        #作者信息
 
 #键盘高度
 height:
@@ -178,7 +178,7 @@ colors:
 preset_color_schemes:
   default:
     name: "蓝色日间"  #方案名称
-    author: 认真的π #作者信息
+    author: 认真的π、Hikari #作者信息
     dark_scheme: dark
     back_color: *color12 #候选区背景状态栏
     candidate_separator_color: *color14 #候选分割背景
@@ -229,7 +229,7 @@ preset_color_schemes:
 
   dark:
     name: "蓝色夜间"  #方案名称
-    author: 认真的π #作者信
+    author: 认真的π、Hikari #作者信
     back_color: *color3 #候选区背景状态栏
     candidate_separator_color: *color2 #候选分割背景
     candidate_text_color: *color1 #候选文本
@@ -309,7 +309,7 @@ liquid_keyboard:
     type: HISTORY
   emoji:
     type: SINGLE
-    keys: "🙂😂🤣😆🙃😅🥺😎👀🙈🙉🙊☹😑😄🤐😨😱🌚🌝🤔❤💔🌹💣👌👍😣😥😮🙄😏😕😯😪😫😴😌🤑😉😋😎😍😘😚😛😜😝😒😓😔😲😷🤒😇🤓🤗🤕🙁😖😞😟😤😢😭😦😧😨😩😬😰😳😵😡😠☝✌🖕👎🙏🤘👏💪💋☘🍀🌸☕🍵🍺🍻🍦🍬🍚🍜🍲🍖🎂💤"
+    keys: "😁😂😃😄👿😉😊☺😌😍😏😒😓😔😖😘😚😜😝😞😠😡😢😣😥😨😪😭😰😱😲😳😷🙃😋😗😛🤑🤓😎🤗🙄🤔😩😤🤐🤒😴😀😆😅😇🙂😙😟😕🙁☹😫😶😐😑😯😦😧😮😵😬🤕😈👻🥺🥴🤣🥰🤩🤤🤫🤪🧐🤬🤧🤭🤠🤯🤥🥳🤨🤢🤮🤡🥵🥶💩☠💀👽👾👺👹🤖🥱🥸🥲☝✌🖕👎🙏🤘👏💪💋☘🍀🌸☕🍵🍺🍻🍦🍬🍚🍜🍲🍖🎂💤"
   edit:
     type: SINGLE
     name: 编辑
@@ -330,7 +330,7 @@ liquid_keyboard:
   math:   #tab名称
     type: SINGLE
     name: 数学
-    keys: "≈＝≠≌<>≤≥≡()[]{}-+±×*/÷&∥%‰‱°′″∫∮∯∬∭∰∞∑∧∏∈∵∴⊥∝∨∪•√〒∝∽∈∩∧⊙⌒∥∟∣∂∆∞≌∉∪∨⊕⊿⊥∠∫∬∭"  #tab中的按键列表
+    keys: "=+-·/×÷^＞＜≥≤≮≯≡≠≈≒±√³√π%‰％℅½⅓⅔¼¾∶∵∴∷㏒㏑∫∬∭∮∯∰∂∑∏∈∉∅⊂⊃⊆⊇⊄⊅⊊⊈⫋⫌∀∃∩∪∧∨⊙⊕∥⊥⌒∟∠△⊿∝∽∞≌°℃℉㎎㎏μm㎜㎝㎞㎡m³㏄mlmol㏕sincostancotlim"  #tab中的按键列表
   cn:
     type: SINGLE
     name: 中文
@@ -433,7 +433,7 @@ liquid_keyboard:
 #键盘布局
 preset_keyboards:
   default:
-    author: "认真的π"
+    author: "认真的π、Hikari"
     name: 26键默认布局
     width: 10
   #  height: 48
@@ -481,7 +481,7 @@ preset_keyboards:
       - {click: Return, composing: Return1, swipe_up: Escape, width: 15, key_back_color: benter, key_text_color: tenter, round_corner: *round3, hilited_key_back_color: benter, hilited_key_text_color: tenter}
 
   number:
-    author: "认真的π"
+    author: "认真的π、Hikari"
     name: 数字
     width: 16.6
    # height: 48
@@ -546,7 +546,7 @@ preset_keyboards:
 
 #符号键盘之二
   symbols:
-    author: "认真的π"
+    author: "认真的π、Hikari"
     name: 各种符号
     width: 12
     height: *jpgd5
