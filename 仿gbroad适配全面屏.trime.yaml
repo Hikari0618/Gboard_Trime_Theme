@@ -85,6 +85,7 @@ style:
   locale: zh_CN #缺省语言 zh_TW,zh_CN,zh_HK,""
   keyboard_height: 320 #锁定键盘高度，避免切换时键盘高度变化而造成闪烁
   keyboard_height_land: 250 #锁定横屏下键盘高度，避免切换时键盘高度变化而造成闪烁
+  keyboard_padding_bottom: 0 #键盘底部空白高度
   preview_font: latin.ttf #按键提示字体
   preview_height: 56 #按键提示高度
   preview_offset: -32 #按键提示纵向偏移
@@ -480,7 +481,7 @@ preset_keyboards:
       - {click: Mode_switch, key_text_size: "18", key_back_color: bgn, key_text_color: th4}
       - {click: Return, composing: Return1, swipe_up: Escape, width: 15, key_back_color: benter, key_text_color: tenter, round_corner: *round3, hilited_key_back_color: benter, hilited_key_text_color: tenter}
 
-      - {click: Menu_nolabel, label: 'ic@tune-variant', width: 15, key_back_color: bbs, key_text_color: th3, hilited_key_back_color: gnb, hilited_key_text_color: tgn}
+      - {click: Menu_nolabel, label: 'ic@tune-variant', width: 15, key_text_size: 16, key_back_color: bbs, key_text_color: th3, hilited_key_back_color: gnb, hilited_key_text_color: tgn}
       - {width: 70, key_back_color: bgn}
       - {click: Control_L, label: 'Ctrl', width: 15, key_back_color: bbs, key_text_color: tb3, hilited_key_back_color: gnb, hilited_key_text_color: tgn}
 
@@ -517,7 +518,7 @@ preset_keyboards:
       - {click: '.', long_click: '^', width: 10, key_back_color: bgn, hilited_key_back_color: gnb, hilited_key_text_color: tgn}
       - {click: Return, key_back_color: benter, key_text_color: tenter, round_corner: *round3, hilited_key_back_color: benter, hilited_key_text_color: tenter}
       
-      - {click: Menu_nolabel, label: 'ic@tune-variant', width: 15, key_back_color: bbs, key_text_color: th3, hilited_key_back_color: gnb, hilited_key_text_color: tgn}
+      - {click: Menu_nolabel, label: 'ic@tune-variant', width: 15, key_text_size: 16, key_back_color: bbs, key_text_color: th3, hilited_key_back_color: gnb, hilited_key_text_color: tgn}
       - {width: 20, key_back_color: bgn}
       - {click: space, long_click: Mode_switch, swipe_left: "Left", swipe_right: "Right", swipe_up: Schema_switchcn, width: 30, key_back_color: bkg, key_text_color: tkg, hilited_key_back_color: bgn, hilited_key_text_color: tgn}
       - {width: 20, key_back_color: bgn}
@@ -552,7 +553,7 @@ preset_keyboards:
       - {click: Keyboard_last, width: 17, key_text_size: "14", key_back_color: bgn}
       - {click: Keyboard_default, height: 26.5, width: 17, key_text_size: "14", key_back_color: benter, key_text_color: tenter, round_corner: *round3, hilited_key_back_color: benter, hilited_key_text_color: tenter}
         
-      - {click: Menu_nolabel, label: 'ic@tune-variant', width: 15, key_back_color: bbs, key_text_color: th3, hilited_key_back_color: gnb, hilited_key_text_color: tgn}
+      - {click: Menu_nolabel, label: 'ic@tune-variant', width: 15, key_text_size: 16, key_back_color: bbs, key_text_color: th3, hilited_key_back_color: gnb, hilited_key_text_color: tgn}
       - {width: 70, key_back_color: bgn}
       - {click: Control_L, label: 'Ctrl', width: 15, key_back_color: bbs, key_text_color: tb3, hilited_key_back_color: gnb, hilited_key_text_color: tgn}
 
@@ -3366,7 +3367,7 @@ preset_keys:
   liquid_keyboard_clipboard: { label: 剪切, send: function, command: liquid_keyboard, option: "剪贴" }
   liquid_keyboard_clipboard_icon: { label: 'ic@clipboard', send: function, command: liquid_keyboard, option: "剪贴" }
   # rime状态
-  Mode_switch: {toggle: ascii_mode, functional: false, send: Mode_switch, states: [ 中, 英 ]}
+  Mode_switch: {toggle: ascii_mode, functional: false, send: SWITCH_CHARSET, states: [ 中, 英 ]}
   Zenkaku_Hankaku: {toggle: full_shape, send: Mode_switch, states: [ 半角, 全角 ]}
   Henkan: {toggle: simplification, send: Mode_switch, states: [ 汉字, 汉字 ]}
   Charset_switch: {toggle: extended_charset, send: Mode_switch, states: [ 常用, 增广 ]}
@@ -3382,7 +3383,7 @@ preset_keys:
   Help: {label: 说明, send: Help}
   Info: {label: 关于, send: INFO}
   Menu: {label: 菜单, functional: false, send: Menu}
-  Menu_nolabel: {label: 'ic@tune-variant', functional: false, send: Menu}
+  Menu_nolabel: {label: 'ic@tune-variant', functional: false, send: MENU}
   Settings: {label: 设置, functional: false, send: SETTINGS}
   # trime命令
   Date: {label: 日期, send: function, command: date, option: " yyyy-MM-dd "}

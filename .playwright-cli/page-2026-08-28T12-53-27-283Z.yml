@@ -1,0 +1,207 @@
+- generic [active] [ref=f1e1]:
+  - generic [ref=f1e2]:
+    - generic [ref=f1e3]:
+      - link "Skip to content" [ref=f1e4] [cursor=pointer]:
+        - /url: "#start-of-content"
+      - banner [ref=f1e9]:
+        - heading "Navigation Menu" [level=2] [ref=f1e10]
+        - generic [ref=f1e11]:
+          - link "Homepage" [ref=f1e13] [cursor=pointer]:
+            - /url: /
+          - generic [ref=f1e16]:
+            - navigation "Global" [ref=f1e17]:
+              - list [ref=f1e18]:
+                - listitem [ref=f1e19]:
+                  - button "Platform" [ref=f1e21] [cursor=pointer]
+                - listitem [ref=f1e24]:
+                  - button "Solutions" [ref=f1e26] [cursor=pointer]
+                - listitem [ref=f1e29]:
+                  - button "Resources" [ref=f1e31] [cursor=pointer]
+                - listitem [ref=f1e34]:
+                  - button "Open Source" [ref=f1e36] [cursor=pointer]
+                - listitem [ref=f1e39]:
+                  - button "Enterprise" [ref=f1e41] [cursor=pointer]
+                - listitem [ref=f1e44]:
+                  - link "Pricing" [ref=f1e45] [cursor=pointer]:
+                    - /url: https://github.com/pricing
+            - generic [ref=f1e46]:
+              - button "Search or jump to, type / to search" [ref=f1e48] [cursor=pointer]
+              - link "Sign in" [ref=f1e55] [cursor=pointer]:
+                - /url: /login?return_to=https%3A%2F%2Fgithub.com%2FHikari0618%2Fyuyansdk%2Ftree%2Fmaster%2Fsrc%2Fmain%2Fassets%2Frime
+              - link "Sign up" [ref=f1e58] [cursor=pointer]:
+                - /url: /signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Ffiles%2Fdisambiguate&source=header-repo&source_repo=Hikari0618%2Fyuyansdk
+              - button "Appearance settings" [ref=f1e61] [cursor=pointer]
+    - main [ref=f1e68]:
+      - generic [ref=f1e69]:
+        - generic [ref=f1e70]:
+          - generic [ref=f1e71]:
+            - generic [ref=f1e72]:
+              - link "Hikari0618" [ref=f1e76] [cursor=pointer]:
+                - /url: /Hikari0618
+              - generic [ref=f1e77]: /
+              - strong [ref=f1e78]:
+                - link "yuyansdk" [ref=f1e79] [cursor=pointer]:
+                  - /url: /Hikari0618/yuyansdk
+              - generic [ref=f1e80]: Public
+            - generic [ref=f1e81]:
+              - text: forked from
+              - link "gurecn/yuyansdk" [ref=f1e82] [cursor=pointer]:
+                - /url: /gurecn/yuyansdk
+          - generic [ref=f1e83]:
+            - list:
+              - listitem [ref=f1e84]:
+                - link "You must be signed in to change notification settings" [ref=f1e85] [cursor=pointer]:
+                  - /url: /login?return_to=%2FHikari0618%2Fyuyansdk
+                  - text: Notifications
+              - listitem [ref=f1e88]:
+                - link "Fork 0" [ref=f1e89] [cursor=pointer]:
+                  - /url: /login?return_to=%2FHikari0618%2Fyuyansdk
+                  - text: Fork
+                  - generic "0" [ref=f1e92]
+              - listitem [ref=f1e93]:
+                - link "You must be signed in to star a repository" [ref=f1e95] [cursor=pointer]:
+                  - /url: /login?return_to=%2FHikari0618%2Fyuyansdk
+                  - text: Star
+                  - generic "0 users starred this repository" [ref=f1e98]: "0"
+        - navigation "Repository" [ref=f1e99]:
+          - list [ref=f1e100]:
+            - listitem [ref=f1e101]:
+              - link "Code" [ref=f1e102] [cursor=pointer]:
+                - /url: /Hikari0618/yuyansdk
+            - listitem [ref=f1e106]:
+              - link "Pull requests" [ref=f1e107] [cursor=pointer]:
+                - /url: /Hikari0618/yuyansdk/pulls
+            - listitem [ref=f1e111]:
+              - link "Actions" [ref=f1e112] [cursor=pointer]:
+                - /url: /Hikari0618/yuyansdk/actions
+            - listitem [ref=f1e116]:
+              - link "Projects" [ref=f1e117] [cursor=pointer]:
+                - /url: /Hikari0618/yuyansdk/projects
+            - listitem [ref=f1e121]:
+              - link "Security and quality" [ref=f1e122] [cursor=pointer]:
+                - /url: /Hikari0618/yuyansdk/security
+            - listitem [ref=f1e126]:
+              - link "Insights" [ref=f1e127] [cursor=pointer]:
+                - /url: /Hikari0618/yuyansdk/pulse
+      - generic [ref=f1e141]:
+        - generic [ref=f1e145]:
+          - generic [ref=f1e146]:
+            - heading "Expand file tree" [level=2] [ref=f1e148]:
+              - button "Expand file tree" [ref=f1e149] [cursor=pointer]
+            - button "master branch" [ref=f1e154] [cursor=pointer]:
+              - generic [ref=f1e155]: master
+            - generic [ref=f1e160]:
+              - navigation [ref=f1e161]:
+                - heading "Breadcrumbs" [level=2] [ref=f1e162]
+                - list [ref=f1e163]:
+                  - listitem [ref=f1e164]:
+                    - link "yuyansdk" [ref=f1e165] [cursor=pointer]:
+                      - /url: /Hikari0618/yuyansdk/tree/master
+                  - listitem [ref=f1e166]:
+                    - text: /
+                    - link "src" [ref=f1e167] [cursor=pointer]:
+                      - /url: /Hikari0618/yuyansdk/tree/master/src
+                  - listitem [ref=f1e168]:
+                    - text: /
+                    - link "main" [ref=f1e169] [cursor=pointer]:
+                      - /url: /Hikari0618/yuyansdk/tree/master/src/main
+                  - listitem [ref=f1e170]:
+                    - text: /
+                    - link "assets" [ref=f1e171] [cursor=pointer]:
+                      - /url: /Hikari0618/yuyansdk/tree/master/src/main/assets
+              - generic [ref=f1e172]:
+                - text: /
+                - heading "rime" [level=1] [ref=f1e173]
+                - text: /
+              - button "Copy path" [ref=f1e174] [cursor=pointer]
+          - generic [ref=f1e180]:
+            - heading "Directory actions" [level=2] [ref=f1e181]
+            - combobox "Go to file" [ref=f1e188]
+            - heading "More options" [level=2] [ref=f1e189]
+            - button "More options" [ref=f1e190] [cursor=pointer]
+        - generic [ref=f1e193]:
+          - generic [ref=f1e195]:
+            - heading "Latest commit" [level=2] [ref=f1e196]
+            - generic [ref=f1e199]:
+              - heading "History" [level=2] [ref=f1e200]
+              - link "History" [ref=f1e201] [cursor=pointer]:
+                - /url: /Hikari0618/yuyansdk/commits/master/src/main/assets/rime
+          - generic [ref=f1e208]:
+            - heading "Folders and files" [level=2] [ref=f1e209]
+            - table "Folders and files" [ref=f1e210]:
+              - rowgroup [ref=f1e211]:
+                - row [ref=f1e212]:
+                  - columnheader "Name" [ref=f1e213]
+                  - columnheader "Last commit message" [ref=f1e214]
+                  - columnheader "Last commit date" [ref=f1e216]
+              - rowgroup [ref=f1e218]:
+                - row [ref=f1e219]:
+                  - cell [ref=f1e220]:
+                    - heading "parent directory" [level=3] [ref=f1e221]
+                    - link "Parent directory" [ref=f1e222] [cursor=pointer]:
+                      - /url: /Hikari0618/yuyansdk/tree/master/src/main/assets
+                      - generic [ref=f1e223]: ..
+                - row "build, (Directory)" [ref=f1e226]:
+                  - cell [ref=f1e227]:
+                    - link "build, (Directory)" [ref=f1e234] [cursor=pointer]:
+                      - /url: /Hikari0618/yuyansdk/tree/master/src/main/assets/rime/build
+                      - text: build
+                  - cell [ref=f1e235]
+                  - cell [ref=f1e237]
+                - row "opencc, (Directory)" [ref=f1e240]:
+                  - cell [ref=f1e241]:
+                    - link "opencc, (Directory)" [ref=f1e248] [cursor=pointer]:
+                      - /url: /Hikari0618/yuyansdk/tree/master/src/main/assets/rime/opencc
+                      - text: opencc
+                  - cell [ref=f1e249]
+                  - cell [ref=f1e251]
+                - row "installation.yaml, (File)" [ref=f1e254]:
+                  - cell [ref=f1e255]:
+                    - link "installation.yaml, (File)" [ref=f1e262] [cursor=pointer]:
+                      - /url: /Hikari0618/yuyansdk/blob/master/src/main/assets/rime/installation.yaml
+                      - text: installation.yaml
+                  - cell [ref=f1e263]
+                  - cell [ref=f1e265]
+                - row "user.yaml, (File)" [ref=f1e268]:
+                  - cell [ref=f1e269]:
+                    - link "user.yaml, (File)" [ref=f1e276] [cursor=pointer]:
+                      - /url: /Hikari0618/yuyansdk/blob/master/src/main/assets/rime/user.yaml
+                      - text: user.yaml
+                  - cell [ref=f1e277]
+                  - cell [ref=f1e279]
+    - contentinfo [ref=f1e283]:
+      - heading "Footer" [level=2] [ref=f1e284]
+      - generic [ref=f1e285]:
+        - generic [ref=f1e286]:
+          - link "GitHub Homepage" [ref=f1e287] [cursor=pointer]:
+            - /url: https://github.com
+          - generic [ref=f1e290]: © 2026 GitHub, Inc.
+        - navigation "Footer" [ref=f1e291]:
+          - heading "Footer navigation" [level=3] [ref=f1e292]
+          - list "Footer navigation" [ref=f1e293]:
+            - listitem [ref=f1e294]:
+              - link "Terms" [ref=f1e295] [cursor=pointer]:
+                - /url: https://docs.github.com/site-policy/github-terms/github-terms-of-service
+            - listitem [ref=f1e296]:
+              - link "Privacy" [ref=f1e297] [cursor=pointer]:
+                - /url: https://docs.github.com/site-policy/privacy-policies/github-privacy-statement
+            - listitem [ref=f1e298]:
+              - link "Security" [ref=f1e299] [cursor=pointer]:
+                - /url: https://github.com/security
+            - listitem [ref=f1e300]:
+              - link "Status" [ref=f1e301] [cursor=pointer]:
+                - /url: https://www.githubstatus.com/
+            - listitem [ref=f1e302]:
+              - link "Community" [ref=f1e303] [cursor=pointer]:
+                - /url: https://github.community/
+            - listitem [ref=f1e304]:
+              - link "Docs" [ref=f1e305] [cursor=pointer]:
+                - /url: https://docs.github.com/
+            - listitem [ref=f1e306]:
+              - link "Contact" [ref=f1e307] [cursor=pointer]:
+                - /url: https://support.github.com?tags=dotcom-footer
+            - listitem [ref=f1e308]:
+              - button "Manage cookies" [ref=f1e310] [cursor=pointer]
+            - listitem [ref=f1e311]:
+              - button "Do not share my personal information" [ref=f1e313] [cursor=pointer]
+  - alert [ref=f1e316]

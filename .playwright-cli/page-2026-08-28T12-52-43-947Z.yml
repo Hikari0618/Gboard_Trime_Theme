@@ -1,0 +1,659 @@
+- generic [ref=e2]:
+  - generic [ref=e3]:
+    - link "Skip to content" [ref=e4] [cursor=pointer]:
+      - /url: "#start-of-content"
+    - banner [ref=e9]:
+      - heading "Navigation Menu" [level=2] [ref=e10]
+      - generic [ref=e11]:
+        - link "Homepage" [ref=e13] [cursor=pointer]:
+          - /url: /
+        - generic [ref=e16]:
+          - navigation "Global" [ref=e17]:
+            - list [ref=e18]:
+              - listitem [ref=e19]:
+                - button "Platform" [ref=e21] [cursor=pointer]
+              - listitem [ref=e24]:
+                - button "Solutions" [ref=e26] [cursor=pointer]
+              - listitem [ref=e29]:
+                - button "Resources" [ref=e31] [cursor=pointer]
+              - listitem [ref=e34]:
+                - button "Open Source" [ref=e36] [cursor=pointer]
+              - listitem [ref=e39]:
+                - button "Enterprise" [ref=e41] [cursor=pointer]
+              - listitem [ref=e44]:
+                - link "Pricing" [ref=e45] [cursor=pointer]:
+                  - /url: https://github.com/pricing
+          - generic [ref=e46]:
+            - button "Search or jump to, type / to search" [ref=e48] [cursor=pointer]
+            - link "Sign in" [ref=e55] [cursor=pointer]:
+              - /url: /login?return_to=https%3A%2F%2Fgithub.com%2FHikari0618%2FYuyanIme
+            - link "Sign up" [ref=e58] [cursor=pointer]:
+              - /url: /signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=Hikari0618%2FYuyanIme
+            - button "Appearance settings" [ref=e61] [cursor=pointer]
+  - main [ref=e68]:
+    - generic [ref=e69]:
+      - generic [ref=e70]:
+        - generic [ref=e71]:
+          - generic [ref=e72]:
+            - link "Hikari0618" [ref=e76] [cursor=pointer]:
+              - /url: /Hikari0618
+            - generic [ref=e77]: /
+            - strong [ref=e78]:
+              - link "YuyanIme" [ref=e79] [cursor=pointer]:
+                - /url: /Hikari0618/YuyanIme
+            - generic [ref=e80]: Public
+          - generic [ref=e81]:
+            - text: forked from
+            - link "gurecn/YuyanIme" [ref=e82] [cursor=pointer]:
+              - /url: /gurecn/YuyanIme
+        - generic [ref=e83]:
+          - list:
+            - listitem [ref=e84]:
+              - link "You must be signed in to change notification settings" [ref=e85] [cursor=pointer]:
+                - /url: /login?return_to=%2FHikari0618%2FYuyanIme
+                - text: Notifications
+            - listitem [ref=e88]:
+              - link "Fork 0" [ref=e89] [cursor=pointer]:
+                - /url: /login?return_to=%2FHikari0618%2FYuyanIme
+                - text: Fork
+                - generic "0" [ref=e92]
+            - listitem [ref=e93]:
+              - link "You must be signed in to star a repository" [ref=e95] [cursor=pointer]:
+                - /url: /login?return_to=%2FHikari0618%2FYuyanIme
+                - text: Star
+                - generic "0 users starred this repository" [ref=e98]: "0"
+      - navigation "Repository" [ref=e99]:
+        - list [ref=e100]:
+          - listitem [ref=e101]:
+            - link "Code" [ref=e102] [cursor=pointer]:
+              - /url: /Hikari0618/YuyanIme
+          - listitem [ref=e106]:
+            - link "Pull requests" [ref=e107] [cursor=pointer]:
+              - /url: /Hikari0618/YuyanIme/pulls
+          - listitem [ref=e111]:
+            - link "Actions" [ref=e112] [cursor=pointer]:
+              - /url: /Hikari0618/YuyanIme/actions
+          - listitem [ref=e116]:
+            - link "Projects" [ref=e117] [cursor=pointer]:
+              - /url: /Hikari0618/YuyanIme/projects
+          - listitem [ref=e121]:
+            - link "Security and quality" [ref=e122] [cursor=pointer]:
+              - /url: /Hikari0618/YuyanIme/security
+          - listitem [ref=e126]:
+            - link "Insights" [ref=e127] [cursor=pointer]:
+              - /url: /Hikari0618/YuyanIme/pulse
+    - generic [ref=e144]:
+      - generic [ref=e147]:
+        - generic [ref=e148]:
+          - generic [ref=e149]:
+            - button "master branch" [ref=e151] [cursor=pointer]:
+              - generic [ref=e152]: master
+            - generic [ref=e156]:
+              - link "Branches" [ref=e157] [cursor=pointer]:
+                - /url: /Hikari0618/YuyanIme/branches
+              - link "Tags" [ref=e160] [cursor=pointer]:
+                - /url: /Hikari0618/YuyanIme/tags
+          - generic [ref=e163]:
+            - combobox "Go to file" [ref=e171]
+            - button "Code" [ref=e172] [cursor=pointer]
+        - generic [ref=e178]:
+          - generic [ref=e179]:
+            - generic [ref=e181]:
+              - heading "Latest commit" [level=2] [ref=e182]
+              - generic [ref=e185]:
+                - heading "History" [level=2] [ref=e186]
+                - link "162 Commits" [ref=e187] [cursor=pointer]:
+                  - /url: /Hikari0618/YuyanIme/commits/master/
+            - heading "Folders and files" [level=2] [ref=e190]
+            - table "Folders and files" [ref=e191]:
+              - rowgroup:
+                - row "Name Last commit message Last commit date":
+                  - columnheader "Name"
+                  - columnheader "Last commit message"
+                  - columnheader "Last commit date"
+              - rowgroup [ref=e192]:
+                - row ".github, (Directory)" [ref=e193]:
+                  - cell [ref=e194]:
+                    - link ".github, (Directory)" [ref=e201] [cursor=pointer]:
+                      - /url: /Hikari0618/YuyanIme/tree/master/.github
+                      - text: .github
+                  - cell [ref=e202]
+                  - cell [ref=e204]
+                - row "app, (Directory)" [ref=e207]:
+                  - cell [ref=e208]:
+                    - link "app, (Directory)" [ref=e215] [cursor=pointer]:
+                      - /url: /Hikari0618/YuyanIme/tree/master/app
+                      - text: app
+                  - cell [ref=e216]
+                  - cell [ref=e218]
+                - row "gradle/wrapper, (Directory)" [ref=e221]:
+                  - cell [ref=e222]:
+                    - link "gradle/wrapper, (Directory)" [ref=e229] [cursor=pointer]:
+                      - /url: /Hikari0618/YuyanIme/tree/master/gradle/wrapper
+                      - text: gradle/wrapper
+                  - cell [ref=e230]
+                  - cell [ref=e232]
+                - row "images, (Directory)" [ref=e235]:
+                  - cell [ref=e236]:
+                    - link "images, (Directory)" [ref=e243] [cursor=pointer]:
+                      - /url: /Hikari0618/YuyanIme/tree/master/images
+                      - text: images
+                  - cell [ref=e244]
+                  - cell [ref=e246]
+                - row "yuyansdk, (Submodule)" [ref=e249]:
+                  - cell [ref=e250]:
+                    - link "yuyansdk, (Submodule)" [ref=e257] [cursor=pointer]:
+                      - /url: /gurecn/yuyansdk/tree/d5609ccd31c72de8eb4f00e25739016f811bb95f
+                      - text: yuyansdk @ d5609cc
+                  - cell [ref=e258]
+                  - cell [ref=e260]
+                - row ".gitignore, (File)" [ref=e263]:
+                  - cell [ref=e264]:
+                    - link ".gitignore, (File)" [ref=e271] [cursor=pointer]:
+                      - /url: /Hikari0618/YuyanIme/blob/master/.gitignore
+                      - text: .gitignore
+                  - cell [ref=e272]
+                  - cell [ref=e274]
+                - row ".gitmodules, (File)" [ref=e277]:
+                  - cell [ref=e278]:
+                    - link ".gitmodules, (File)" [ref=e285] [cursor=pointer]:
+                      - /url: /Hikari0618/YuyanIme/blob/master/.gitmodules
+                      - text: .gitmodules
+                  - cell [ref=e286]
+                  - cell [ref=e288]
+                - row "LICENSE, (File)" [ref=e291]:
+                  - cell [ref=e292]:
+                    - link "LICENSE, (File)" [ref=e299] [cursor=pointer]:
+                      - /url: /Hikari0618/YuyanIme/blob/master/LICENSE
+                      - text: LICENSE
+                  - cell [ref=e300]
+                  - cell [ref=e302]
+                - row "README.md, (File)" [ref=e305]:
+                  - cell [ref=e306]:
+                    - link "README.md, (File)" [ref=e313] [cursor=pointer]:
+                      - /url: /Hikari0618/YuyanIme/blob/master/README.md
+                      - text: README.md
+                  - cell [ref=e314]
+                  - cell [ref=e316]
+                - row "build.gradle, (File)" [ref=e319]:
+                  - cell [ref=e320]:
+                    - link "build.gradle, (File)" [ref=e327] [cursor=pointer]:
+                      - /url: /Hikari0618/YuyanIme/blob/master/build.gradle
+                      - text: build.gradle
+                  - cell [ref=e328]
+                  - cell [ref=e330]
+                - row "gradle.properties, (File)" [ref=e333]:
+                  - cell [ref=e334]:
+                    - link "gradle.properties, (File)" [ref=e341] [cursor=pointer]:
+                      - /url: /Hikari0618/YuyanIme/blob/master/gradle.properties
+                      - text: gradle.properties
+                  - cell [ref=e342]
+                  - cell [ref=e344]
+                - row "gradlew, (File)" [ref=e347]:
+                  - cell [ref=e348]:
+                    - link "gradlew, (File)" [ref=e355] [cursor=pointer]:
+                      - /url: /Hikari0618/YuyanIme/blob/master/gradlew
+                      - text: gradlew
+                  - cell [ref=e356]
+                  - cell [ref=e358]
+                - row "gradlew.bat, (File)" [ref=e361]:
+                  - cell [ref=e362]:
+                    - link "gradlew.bat, (File)" [ref=e369] [cursor=pointer]:
+                      - /url: /Hikari0618/YuyanIme/blob/master/gradlew.bat
+                      - text: gradlew.bat
+                  - cell [ref=e370]
+                  - cell [ref=e372]
+                - row "settings.gradle, (File)" [ref=e375]:
+                  - cell [ref=e376]:
+                    - link "settings.gradle, (File)" [ref=e383] [cursor=pointer]:
+                      - /url: /Hikari0618/YuyanIme/blob/master/settings.gradle
+                      - text: settings.gradle
+                  - cell [ref=e384]
+                  - cell [ref=e386]
+          - generic [ref=e390]:
+            - generic [ref=e391]:
+              - heading "Repository files navigation" [level=2] [ref=e392]
+              - navigation "Repository files" [ref=e393]:
+                - list [ref=e394]:
+                  - listitem [ref=e395]:
+                    - link "README" [ref=e396] [cursor=pointer]:
+                      - /url: "#"
+                  - listitem [ref=e401]:
+                    - link "License" [ref=e402] [cursor=pointer]:
+                      - /url: "#"
+              - button "Outline" [ref=e407] [cursor=pointer]
+            - article [ref=e411]:
+              - generic [ref=e412]:
+                - heading "语燕输入法" [level=1] [ref=e413]
+                - 'link "Permalink: 语燕输入法" [ref=e414] [cursor=pointer]':
+                  - /url: "#语燕输入法"
+              - paragraph [ref=e417]:
+                - text: 雨燕以其敏捷、优雅的飞行姿态，在雨天依然够飞翔、不畏艰险、勇往直前的飞翔态度，被赋予
+                - strong [ref=e418]: 灵巧、聪明、伶俐、积极、创新
+                - text: 的寓意。语言是人类交流的基本工具，是最重要的文化载体，输入方式是语言交流和信息传递的重要环节，使语言交流变得更加
+                - strong [ref=e419]: 高效、便捷
+                - text: 。
+                - link "语燕输入法" [ref=e420] [cursor=pointer]:
+                  - /url: https://github.com/gurecn/YuyanIme
+                - text: 秉承这些特点，以“
+                - strong [ref=e421]: 易用、快速、准确
+                - text: ”为核心理念，追求极致、卓越、流畅的输入体验。 在设计上，语燕输入法借鉴主流的谷歌拼音、微信输入法等主流输入法精华，追求整体简洁大方，易于上手。支持多种输入方式，规划包括拼音、手写、语音等，满足不同用户的输入需求。支持丰富的个性化设置选项，用户可以根据自己的喜好进行自定义设置，让输入更加符合个人习惯。
+              - generic [ref=e422]:
+                - heading "安装使用：" [level=2] [ref=e423]
+                - 'link "Permalink: 安装使用：" [ref=e424] [cursor=pointer]':
+                  - /url: "#安装使用"
+              - paragraph [ref=e427]:
+                - text: 华为应用市场：
+                - link "应用地址" [ref=e428] [cursor=pointer]:
+                  - /url: https://appgallery.cloud.huawei.com/appDetail?pkgName=com.yuyan.pinyin.online.release
+                - text: ，应用宝：
+                - link "应用地址" [ref=e429] [cursor=pointer]:
+                  - /url: https://sj.qq.com/appdetail/com.yuyan.pinyin.online.release
+                - text: ，已上架语燕输入法，可直接搜索安装。 也可以直接点击
+                - link "Github Releases" [ref=e430] [cursor=pointer]:
+                  - /url: https://github.com/gurecn/YuyanIme/releases
+                - text: ，下载最新版本安装包直接安装使用。 国内访问Github慢的话，可点击
+                - link "Gitee Releases" [ref=e431] [cursor=pointer]:
+                  - /url: https://gitee.com/gurecn/YuyanIme/releases
+                - text: 下载。 手机扫码下载地址：
+              - table [ref=e433]:
+                - rowgroup [ref=e434]:
+                  - row [ref=e435]:
+                    - columnheader "Github" [ref=e436]
+                    - columnheader "Gitee" [ref=e437]
+                - rowgroup [ref=e438]:
+                  - row [ref=e439]:
+                    - cell [ref=e440]:
+                      - link [ref=e441] [cursor=pointer]:
+                        - /url: /Hikari0618/YuyanIme/blob/master/images/download/github.png
+                        - img "github" [ref=e442]
+                    - cell [ref=e443]:
+                      - link [ref=e444] [cursor=pointer]:
+                        - /url: /Hikari0618/YuyanIme/blob/master/images/download/gitee.png
+                        - img "gitee" [ref=e445]
+              - paragraph [ref=e446]: 使用过程中任何问题可以创建issues、应用内反馈或通过邮件等方式反馈，本人会根据需求及时修复。
+              - generic [ref=e447]:
+                - heading "设计原则：" [level=2] [ref=e448]
+                - 'link "Permalink: 设计原则：" [ref=e449] [cursor=pointer]':
+                  - /url: "#设计原则"
+              - generic [ref=e452]:
+                - heading "纯输入功能，主打轻快。" [level=3] [ref=e453]
+                - 'link "Permalink: 纯输入功能，主打轻快。" [ref=e454] [cursor=pointer]':
+                  - /url: "#纯输入功能主打轻快"
+              - paragraph [ref=e457]:
+                - text: 喜欢简洁的我看到一个个拼音输入法工具软件逐渐趋向繁杂，软件内各种眼花缭乱的无用功能以及烦人的广告让我无法忍受。
+                - strong [ref=e458]: 因此我想要定制出一款简洁、实用、好用的输入法；
+              - generic [ref=e459]:
+                - heading "最小、必要的权限原则，更安全。" [level=3] [ref=e460]
+                - 'link "Permalink: 最小、必要的权限原则，更安全。" [ref=e461] [cursor=pointer]':
+                  - /url: "#最小必要的权限原则更安全"
+              - paragraph [ref=e464]:
+                - text: 当前主流输入法获取各类非必要权限，无视用户隐私，随意上传、分析用户数据。虽然大数据不会区别对待，但我仍然希望自己的数据只在自己的手机里，不要在我不知情、无意识的情况下，把所有数据上传。
+                - strong [ref=e465]: 语燕输入法谨遵循必要、最小化权限，只为输入而存在，纯净、安全、更高效。
+                - text: 语燕输入法仅使用系统默认为输入法开启的
+                - code [ref=e466]: 剪贴板
+                - text: （剪贴板功能）、
+                - code [ref=e467]: 设备运动与方向
+                - text: （屏幕方向变更）、
+                - code [ref=e468]: 媒体音控制
+                - text: （按键音效）、
+                - code [ref=e469]: 振动
+                - text: （按键振动）权限，不获取网络、存储、位置、辅助功能等其他权限，完全离线不上传云端，输入数据不采集、不记录，不访问任何个人、终端、位置、存储等信息。
+              - generic [ref=e470]:
+                - heading "基于Rime引擎，但更易上手。" [level=3] [ref=e471]
+                - 'link "Permalink: 基于Rime引擎，但更易上手。" [ref=e472] [cursor=pointer]':
+                  - /url: "#基于rime引擎但更易上手"
+              - paragraph [ref=e475]:
+                - text: 当前开放的输入法引擎中，
+                - link "Rime引擎" [ref=e476] [cursor=pointer]:
+                  - /url: https://github.com/rime/librime
+                - text: 已经趋向完善。然后对于小白用户来说，上手却并不容易：各种输入方案定制及兼容问题，各种键盘的界面效果优化问题。
+                - strong [ref=e477]: 因此我想要定制出一款基于Rime引擎的安装即用，哪怕没时间研究也能好用的输入法；
+              - generic [ref=e478]:
+                - heading "输入模式更完善。" [level=3] [ref=e479]
+                - 'link "Permalink: 输入模式更完善。" [ref=e480] [cursor=pointer]':
+                  - /url: "#输入模式更完善"
+              - paragraph [ref=e483]:
+                - text: 最早接触安卓平台的
+                - link "同文输入法" [ref=e484] [cursor=pointer]:
+                  - /url: https://github.com/osfans
+                - text: ，后面接触
+                - link "小企鹅输入法" [ref=e485] [cursor=pointer]:
+                  - /url: https://github.com/fcitx5-android/fcitx5-android
+                - text: ，均采用Rime方案进行定制，在输入层面已经满足大部分需求。但是小企鹅输入法九宫格键盘不支持，同文输入法候选词选择不便且无法选择拼音组合，使用起来确实需要勇气。 语燕输入法内置多套优秀词库，优化Rime九宫输入方案、乱序输入方案，支持绝大部分输出场景，提升输入效率。
+                - strong [ref=e486]: 因此我想定制出一款支持对小白用户来说使用更普及的九宫格，同时结合全键、双拼、手写、语音等多种方案的输入法。
+              - generic [ref=e487]:
+                - heading "个性化定制更贴心。" [level=3] [ref=e488]
+                - 'link "Permalink: 个性化定制更贴心。" [ref=e489] [cursor=pointer]':
+                  - /url: "#个性化定制更贴心"
+              - paragraph [ref=e492]: 手机屏幕越来越大，但是在走路时，一手提东西，一手打字回复消息对我来说是个头疼地问题，选择候选词够不到、选择出错屡屡出现，因此我定制了单手模式、悬浮键盘。 输入数字要么切换到数字键盘，要么长按按键输入，对输入来说都不便捷，因此我定制了键盘数字行。 夜间输入时，屏幕刺眼，因此我定制了深色主题自动切换功能。更多贴心定制项正在进行中。
+              - generic [ref=e493]:
+                - heading "实现功能：" [level=2] [ref=e494]
+                - 'link "Permalink: 实现功能：" [ref=e495] [cursor=pointer]':
+                  - /url: "#实现功能"
+              - list [ref=e498]:
+                - listitem [ref=e499]: 方案内置：全拼（九宫格、全键）、双拼(小鹤、智能ABC、自然码、紫光、微软、搜狗、乱序17)、手写、五笔画；支持简拼、全拼；
+                - listitem [ref=e500]: 英文输入：智能全键英文输入；
+                - listitem [ref=e501]: 词库拓展：支持雾凇词库、白霜词库等多种词库拓展，输入体验良好；
+                - listitem [ref=e502]: 符号输入：中文、英文、数学、颜文字、EMOJI表情输入、微信特效表情；
+                - listitem [ref=e503]: 数字输入：数字键盘输入、键盘数字行输入；
+                - listitem [ref=e504]: 键盘自定义：自定义菜单栏、主题、深色模式、键盘调节、键盘数字行、键盘位置移动；
+                - listitem [ref=e505]: 单手键盘：左、右手模式切换；
+                - listitem [ref=e506]: 悬浮键盘：悬浮键盘模式，键盘拖拽、移动；
+                - listitem [ref=e507]: 花漾字输入：火星文（焱暒妏）、 花藤字（ζั͡花ั͡藤ั͡字ั͡✾）、凌乱字（"҉҉҉凌҉҉҉乱҉҉҉字҉҉҉）、发芽字（发ོ芽ོ字ོ）、雾霾字（҈҈҈҈雾҈҈҈҈霾҈҈҈҈字҈҈҈҈）、禁止查看（禁⃠止⃠查⃠看⃠）、长草字（"҈长҉҉҈草҉҉҈字҉）、起风了（=͟͟͞͞风=͟͟͞͞太=͟͟͞͞大=͟͟͞͞）花漾输入；
+                - listitem [ref=e508]: 拼音输入扩展：支持繁体、简体，支持中英文混输，支持表情描述输入；
+                - listitem [ref=e509]: 剪切板：支持剪切板联想显示、剪切板及清空操作；
+                - listitem [ref=e510]: 常用语：支持自定义常用语、常用语快捷输入、编辑、删除等操作；
+                - listitem [ref=e511]: 全面屏键盘优化：支持全面屏键盘优化导航栏功能；
+                - listitem [ref=e512]: 隐藏输入法图标：支持隐藏输入法图标功能。
+              - generic [ref=e513]:
+                - heading "已知问题：" [level=2] [ref=e514]
+                - 'link "Permalink: 已知问题：" [ref=e515] [cursor=pointer]':
+                  - /url: "#已知问题"
+              - list [ref=e518]:
+                - listitem [ref=e519]:
+                  - text: "小米手机中键盘菜单点击设置等无反应: 由于小米手机中键盘跳转应用界面需借助"
+                  - code [ref=e520]: 后台弹出界面
+                  - text: 权限，该权限需用户手动开启：设置-应用管理-语燕输入法-权限管理-开启
+                  - code [ref=e521]: 后台弹出界面
+                  - text: 权限即可。
+                - listitem [ref=e522]:
+                  - text: "三星手机按键音量调节无效: 语燕输入法使用系统"
+                  - code [ref=e523]: 通知
+                  - text: 音量作为按键默认音量，但不同手机表现不同。输入法会以手机系统音量设置为前提，当手机静音时，无输入法按键音。当手机未静音时，以
+                  - code [ref=e524]: 通知
+                  - text: 音量大小为基准进行调节。在三星手机中，基于
+                  - code [ref=e525]: 系统
+                  - text: 音量大小进行调解。
+                - listitem [ref=e526]: 在输入一半内容时切换横竖屏，较大概率导致横屏模式屏幕触摸无效，仅能点击键盘按键。 临时方案：切换横竖屏前，确保输入框内容为空。
+              - generic [ref=e527]:
+                - heading "开发环境：" [level=2] [ref=e528]
+                - 'link "Permalink: 开发环境：" [ref=e529] [cursor=pointer]':
+                  - /url: "#开发环境"
+              - blockquote [ref=e532]:
+                - paragraph [ref=e533]:
+                  - text: "Android SDK: minSdk 23,"
+                  - link "app/build.gradle" [ref=e534] [cursor=pointer]:
+                    - /url: /Hikari0618/YuyanIme/blob/master/app/build.gradle
+                  - text: "第三方库:"
+                  - link "build.gradle" [ref=e535] [cursor=pointer]:
+                    - /url: /Hikari0618/YuyanIme/blob/master/build.gradle
+                  - text: "JDK: OpenJDK version \"17.0.11\" 2024-04-16"
+              - generic [ref=e536]:
+                - heading "构建项目：" [level=2] [ref=e537]
+                - 'link "Permalink: 构建项目：" [ref=e538] [cursor=pointer]':
+                  - /url: "#构建项目"
+              - generic [ref=e541]:
+                - heading "1. 克隆此项目并拉取所有子模块。" [level=3] [ref=e542]
+                - 'link "Permalink: 1. 克隆此项目并拉取所有子模块。" [ref=e543] [cursor=pointer]':
+                  - /url: "#1-克隆此项目并拉取所有子模块"
+              - generic [ref=e546]:
+                - generic [ref=e547]: git clone git@github.com:gurecn/YuyanIme.git git submodule update --init --recursive
+                - button "Copy code to clipboard" [ref=e549] [cursor=pointer]
+              - generic [ref=e553]:
+                - heading "2. 导入Android Studio" [level=3] [ref=e554]
+                - 'link "Permalink: 2. 导入Android Studio" [ref=e555] [cursor=pointer]':
+                  - /url: "#2-导入android-studio"
+              - paragraph [ref=e558]:
+                - text: 建议使用最新、稳定版本，本人使用
+                - code [ref=e559]: Android Studio Narwhal Feature Drop | 2025.1.2
+                - text: 版本，按照常规项目导入即可。
+                - code [ref=e560]: Android Studio
+                - text: 会自动安装并配置 Android 开发环境。
+              - generic [ref=e561]:
+                - heading "3. 生成签名文件并配置" [level=3] [ref=e562]
+                - 'link "Permalink: 3. 生成签名文件并配置" [ref=e563] [cursor=pointer]':
+                  - /url: "#3-生成签名文件并配置"
+              - paragraph [ref=e566]:
+                - text: 进入项目路径，新建证书配置文件夹：
+                - code [ref=e567]: /YuyanIme/keystore
+                - text: 。
+                - code [ref=e568]: keystore
+                - text: 文件夹内放签名文件
+                - code [ref=e569]: "*.jks"
+                - text: 和配置文件
+                - code [ref=e570]: keystore.properties
+                - text: 。配置文件格式如下：
+              - generic [ref=e571]:
+                - generic [ref=e572]: storeFile=keystore/*.jks storePassword=testPassword keyAlias=testalias keyPassword=testPassword
+                - button "Copy code to clipboard" [ref=e574] [cursor=pointer]
+              - generic [ref=e578]:
+                - heading "4.运行项目" [level=3] [ref=e579]
+                - 'link "Permalink: 4.运行项目" [ref=e580] [cursor=pointer]':
+                  - /url: "#4运行项目"
+              - paragraph [ref=e583]:
+                - text: 选择目标设备，编译执行项目。此时目标设备会自动安装并启动
+                - code [ref=e584]: 语燕输入法
+                - text: 。
+              - generic [ref=e585]:
+                - heading "键盘预览：" [level=2] [ref=e586]
+                - 'link "Permalink: 键盘预览：" [ref=e587] [cursor=pointer]':
+                  - /url: "#键盘预览"
+              - table [ref=e591]:
+                - rowgroup [ref=e592]:
+                  - row [ref=e593]:
+                    - columnheader "九宫键盘" [ref=e594]
+                    - columnheader "全拼键盘" [ref=e595]
+                    - columnheader "乱序17" [ref=e596]
+                - rowgroup [ref=e597]:
+                  - row [ref=e598]:
+                    - cell [ref=e599]:
+                      - link [ref=e600] [cursor=pointer]:
+                        - /url: /Hikari0618/YuyanIme/blob/master/images/t9_pinyin.jpg
+                        - img "九宫格拼音键盘" [ref=e601]
+                    - cell [ref=e602]:
+                      - link [ref=e603] [cursor=pointer]:
+                        - /url: /Hikari0618/YuyanIme/blob/master/images/qwerty_pinyin.jpg
+                        - img "全键拼音键盘" [ref=e604]
+                    - cell [ref=e605]:
+                      - link [ref=e606] [cursor=pointer]:
+                        - /url: /Hikari0618/YuyanIme/blob/master/images/double_lx17.jpg
+                        - img "乱序17拼音" [ref=e607]
+              - table [ref=e609]:
+                - rowgroup [ref=e610]:
+                  - row [ref=e611]:
+                    - columnheader "双拼键盘" [ref=e612]
+                    - columnheader "笔画键盘" [ref=e613]
+                    - columnheader "手写键盘" [ref=e614]
+                - rowgroup [ref=e615]:
+                  - row [ref=e616]:
+                    - cell [ref=e617]:
+                      - link [ref=e618] [cursor=pointer]:
+                        - /url: /Hikari0618/YuyanIme/blob/master/images/double_pinyin.jpg
+                        - img "双拼键盘" [ref=e619]
+                    - cell [ref=e620]:
+                      - link [ref=e621] [cursor=pointer]:
+                        - /url: /Hikari0618/YuyanIme/blob/master/images/stroke_pinyin.jpg
+                        - img "笔画键盘" [ref=e622]
+                    - cell [ref=e623]:
+                      - link [ref=e624] [cursor=pointer]:
+                        - /url: /Hikari0618/YuyanIme/blob/master/images/writing_pinyin.jpg
+                        - img "手写键盘" [ref=e625]
+              - table [ref=e627]:
+                - rowgroup [ref=e628]:
+                  - row [ref=e629]:
+                    - columnheader "英语键盘" [ref=e630]
+                    - columnheader "数字键盘" [ref=e631]
+                    - columnheader "编辑键盘" [ref=e632]
+                - rowgroup [ref=e633]:
+                  - row [ref=e634]:
+                    - cell [ref=e635]:
+                      - link [ref=e636] [cursor=pointer]:
+                        - /url: /Hikari0618/YuyanIme/blob/master/images/qwerty.jpg
+                        - img "英语键盘" [ref=e637]
+                    - cell [ref=e638]:
+                      - link [ref=e639] [cursor=pointer]:
+                        - /url: /Hikari0618/YuyanIme/blob/master/images/number.jpg
+                        - img "数字键盘" [ref=e640]
+                    - cell [ref=e641]:
+                      - link [ref=e642] [cursor=pointer]:
+                        - /url: /Hikari0618/YuyanIme/blob/master/images/textedit.jpg
+                        - img "编辑键盘" [ref=e643]
+              - table [ref=e645]:
+                - rowgroup [ref=e646]:
+                  - row [ref=e647]:
+                    - columnheader "剪切板" [ref=e648]
+                    - columnheader "单手键盘" [ref=e649]
+                    - columnheader "悬浮键盘" [ref=e650]
+                - rowgroup [ref=e651]:
+                  - row [ref=e652]:
+                    - cell [ref=e653]:
+                      - link [ref=e654] [cursor=pointer]:
+                        - /url: /Hikari0618/YuyanIme/blob/master/images/clipboard.jpg
+                        - img "剪切板" [ref=e655]
+                    - cell [ref=e656]:
+                      - link [ref=e657] [cursor=pointer]:
+                        - /url: /Hikari0618/YuyanIme/blob/master/images/onehand.jpg
+                        - img "单手键盘" [ref=e658]
+                    - cell [ref=e659]:
+                      - link [ref=e660] [cursor=pointer]:
+                        - /url: /Hikari0618/YuyanIme/blob/master/images/float.jpg
+                        - img "悬浮键盘" [ref=e661]
+              - table [ref=e663]:
+                - rowgroup [ref=e664]:
+                  - row [ref=e665]:
+                    - columnheader "表情键盘" [ref=e666]
+                    - columnheader "微信特效" [ref=e667]
+                    - columnheader "数字行" [ref=e668]
+                - rowgroup [ref=e669]:
+                  - row [ref=e670]:
+                    - cell [ref=e671]:
+                      - link [ref=e672] [cursor=pointer]:
+                        - /url: /Hikari0618/YuyanIme/blob/master/images/emoji.jpg
+                        - img "表情键盘" [ref=e673]
+                    - cell [ref=e674]:
+                      - link [ref=e675] [cursor=pointer]:
+                        - /url: /Hikari0618/YuyanIme/blob/master/images/emoji_wechat.jpg
+                        - img "微信特效" [ref=e676]
+                    - cell [ref=e677]:
+                      - link [ref=e678] [cursor=pointer]:
+                        - /url: /Hikari0618/YuyanIme/blob/master/images/number_line.jpg
+                        - img "数字行" [ref=e679]
+              - table [ref=e681]:
+                - rowgroup [ref=e682]:
+                  - row [ref=e683]:
+                    - columnheader "深色主题" [ref=e684]
+                    - columnheader "设置菜单" [ref=e685]
+                    - columnheader "物理键盘" [ref=e686]
+                - rowgroup [ref=e687]:
+                  - row [ref=e688]:
+                    - cell [ref=e689]:
+                      - link [ref=e690] [cursor=pointer]:
+                        - /url: /Hikari0618/YuyanIme/blob/master/images/dark.jpg
+                        - img "深色主题" [ref=e691]
+                    - cell [ref=e692]:
+                      - link [ref=e693] [cursor=pointer]:
+                        - /url: /Hikari0618/YuyanIme/blob/master/images/setting.jpg
+                        - img "设置菜单" [ref=e694]
+                    - cell [ref=e695]:
+                      - link [ref=e696] [cursor=pointer]:
+                        - /url: /Hikari0618/YuyanIme/blob/master/images/hardware_keyboard.jpg
+                        - img "物理键盘" [ref=e697]
+              - generic [ref=e698]:
+                - heading "鸣谢：" [level=2] [ref=e699]
+                - 'link "Permalink: 鸣谢：" [ref=e700] [cursor=pointer]':
+                  - /url: "#鸣谢"
+              - paragraph [ref=e703]: 感谢以下优秀的开源社区贡献：
+              - list [ref=e704]:
+                - listitem [ref=e705]:
+                  - link "RIME" [ref=e706] [cursor=pointer]:
+                    - /url: http://rime.im
+                - listitem [ref=e707]:
+                  - link "同文输入法" [ref=e708] [cursor=pointer]:
+                    - /url: https://github.com/osfans
+                - listitem [ref=e709]:
+                  - link "小企鹅输入法" [ref=e710] [cursor=pointer]:
+                    - /url: https://github.com/fcitx5-android/fcitx5-android
+                - listitem [ref=e711]:
+                  - link "雾凇拼音" [ref=e712] [cursor=pointer]:
+                    - /url: https://github.com/iDvel/rime-ice
+                - listitem [ref=e713]:
+                  - link "白霜拼音" [ref=e714] [cursor=pointer]:
+                    - /url: https://github.com/gaboolic/rime-frost
+              - generic [ref=e715]:
+                - heading "联系作者：" [level=2] [ref=e716]
+                - 'link "Permalink: 联系作者：" [ref=e717] [cursor=pointer]':
+                  - /url: "#联系作者"
+              - paragraph [ref=e720]:
+                - text: "访问我的资源:"
+                - link:
+                  - /url: https://github.com/gurecn
+                - link "https://github.com/gurecn" [ref=e721] [cursor=pointer]:
+                  - /url: https://github.com/gurecn
+              - paragraph [ref=e722]:
+                - text: 给我发送邮箱：
+                - link "gurecn@163.com" [ref=e723] [cursor=pointer]:
+                  - /url: mailto:gurecn@163.com
+              - generic [ref=e724]:
+                - heading "Star History" [level=2] [ref=e725]
+                - 'link "Permalink: Star History" [ref=e726] [cursor=pointer]':
+                  - /url: "#star-history"
+              - paragraph [ref=e729]:
+                - link [ref=e730] [cursor=pointer]:
+                  - /url: https://star-history.com/#gurecn/YuyanIme&Date
+                  - img "Star History Chart" [ref=e731]
+      - generic [ref=e734]:
+        - generic [ref=e735]:
+          - heading "About" [level=2] [ref=e736]
+          - paragraph [ref=e737]: 语燕输入法-一款基于Rime定制开发的九键、全拼、双拼、手写、火星文等方案、支持悬浮、单手、数字行等键盘模式的中文输入法
+          - heading "Resources" [level=3] [ref=e738]
+          - link "Readme" [ref=e740] [cursor=pointer]:
+            - /url: "#readme-ov-file"
+          - link "License" [ref=e744] [cursor=pointer]:
+            - /url: "#License-1-ov-file"
+          - link "Activity" [ref=e748] [cursor=pointer]:
+            - /url: /Hikari0618/YuyanIme/activity
+          - heading "Stars" [level=3] [ref=e751]
+          - generic [ref=e753]:
+            - strong [ref=e756]: "0"
+            - text: stars
+          - heading "Watchers" [level=3] [ref=e757]
+          - generic [ref=e759]:
+            - strong [ref=e762]: "0"
+            - text: watching
+          - heading "Forks" [level=3] [ref=e763]
+          - link [ref=e765] [cursor=pointer]:
+            - /url: /Hikari0618/YuyanIme/forks
+            - strong [ref=e769]: "0"
+            - text: forks
+          - link "Report repository" [ref=e771] [cursor=pointer]:
+            - /url: /contact/report-content?content_url=https%3A%2F%2Fgithub.com%2FHikari0618%2FYuyanIme&report=Hikari0618+%28user%29
+        - heading "Releases" [level=2] [ref=e773]
+        - heading "Packages" [level=2] [ref=e777]
+        - heading "Contributors" [level=2] [ref=e780]
+        - heading "Languages" [level=2] [ref=e783]
+  - contentinfo [ref=e786]:
+    - heading "Footer" [level=2] [ref=e787]
+    - generic [ref=e788]:
+      - generic [ref=e789]:
+        - link "GitHub Homepage" [ref=e790] [cursor=pointer]:
+          - /url: https://github.com
+        - generic [ref=e793]: © 2026 GitHub, Inc.
+      - navigation "Footer" [ref=e794]:
+        - heading "Footer navigation" [level=3] [ref=e795]
+        - list "Footer navigation" [ref=e796]:
+          - listitem [ref=e797]:
+            - link "Terms" [ref=e798] [cursor=pointer]:
+              - /url: https://docs.github.com/site-policy/github-terms/github-terms-of-service
+          - listitem [ref=e799]:
+            - link "Privacy" [ref=e800] [cursor=pointer]:
+              - /url: https://docs.github.com/site-policy/privacy-policies/github-privacy-statement
+          - listitem [ref=e801]:
+            - link "Security" [ref=e802] [cursor=pointer]:
+              - /url: https://github.com/security
+          - listitem [ref=e803]:
+            - link "Status" [ref=e804] [cursor=pointer]:
+              - /url: https://www.githubstatus.com/
+          - listitem [ref=e805]:
+            - link "Community" [ref=e806] [cursor=pointer]:
+              - /url: https://github.community/
+          - listitem [ref=e807]:
+            - link "Docs" [ref=e808] [cursor=pointer]:
+              - /url: https://docs.github.com/
+          - listitem [ref=e809]:
+            - link "Contact" [ref=e810] [cursor=pointer]:
+              - /url: https://support.github.com?tags=dotcom-footer
+          - listitem [ref=e811]:
+            - button "Manage cookies" [ref=e813] [cursor=pointer]
+          - listitem [ref=e814]:
+            - button "Do not share my personal information" [ref=e816] [cursor=pointer]

@@ -1,0 +1,851 @@
+- generic [active] [ref=f2e1]:
+  - generic [ref=f2e2]:
+    - generic [ref=f2e3]:
+      - link "Skip to content" [ref=f2e4] [cursor=pointer]:
+        - /url: "#start-of-content"
+      - banner [ref=f2e9]:
+        - heading "Navigation Menu" [level=2] [ref=f2e10]
+        - generic [ref=f2e11]:
+          - link "Homepage" [ref=f2e13] [cursor=pointer]:
+            - /url: /
+          - generic [ref=f2e16]:
+            - navigation "Global" [ref=f2e17]:
+              - list [ref=f2e18]:
+                - listitem [ref=f2e19]:
+                  - button "Platform" [ref=f2e21] [cursor=pointer]
+                - listitem [ref=f2e24]:
+                  - button "Solutions" [ref=f2e26] [cursor=pointer]
+                - listitem [ref=f2e29]:
+                  - button "Resources" [ref=f2e31] [cursor=pointer]
+                - listitem [ref=f2e34]:
+                  - button "Open Source" [ref=f2e36] [cursor=pointer]
+                - listitem [ref=f2e39]:
+                  - button "Enterprise" [ref=f2e41] [cursor=pointer]
+                - listitem [ref=f2e44]:
+                  - link "Pricing" [ref=f2e45] [cursor=pointer]:
+                    - /url: https://github.com/pricing
+            - generic [ref=f2e46]:
+              - button "Search or jump to, type / to search" [ref=f2e48] [cursor=pointer]
+              - link "Sign in" [ref=f2e55] [cursor=pointer]:
+                - /url: /login?return_to=https%3A%2F%2Fgithub.com%2Famzxyz%2Frime-wanxiang
+              - link "Sign up" [ref=f2e58] [cursor=pointer]:
+                - /url: /signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=amzxyz%2Frime-wanxiang
+              - button "Appearance settings" [ref=f2e61] [cursor=pointer]
+    - main [ref=f2e68]:
+      - generic [ref=f2e69]:
+        - generic [ref=f2e70]:
+          - generic [ref=f2e72]:
+            - link "amzxyz" [ref=f2e76] [cursor=pointer]:
+              - /url: /amzxyz
+            - generic [ref=f2e77]: /
+            - strong [ref=f2e78]:
+              - link "rime-wanxiang" [ref=f2e79] [cursor=pointer]:
+                - /url: /amzxyz/rime-wanxiang
+            - generic [ref=f2e80]: Public
+          - generic [ref=f2e81]:
+            - list:
+              - listitem [ref=f2e82]:
+                - link "You must be signed in to change notification settings" [ref=f2e83] [cursor=pointer]:
+                  - /url: /login?return_to=%2Famzxyz%2Frime-wanxiang
+                  - text: Notifications
+              - listitem [ref=f2e86]:
+                - link "Fork 168" [ref=f2e87] [cursor=pointer]:
+                  - /url: /login?return_to=%2Famzxyz%2Frime-wanxiang
+                  - text: Fork
+                  - generic "168" [ref=f2e90]
+              - listitem [ref=f2e91]:
+                - link "You must be signed in to star a repository" [ref=f2e93] [cursor=pointer]:
+                  - /url: /login?return_to=%2Famzxyz%2Frime-wanxiang
+                  - text: Star
+                  - generic "4464 users starred this repository" [ref=f2e96]: 4.5k
+        - navigation "Repository" [ref=f2e97]:
+          - list [ref=f2e98]:
+            - listitem [ref=f2e99]:
+              - link "Code" [ref=f2e100] [cursor=pointer]:
+                - /url: /amzxyz/rime-wanxiang
+            - listitem [ref=f2e104]:
+              - link "Issues 3" [ref=f2e105] [cursor=pointer]:
+                - /url: /amzxyz/rime-wanxiang/issues
+                - generic [ref=f2e109]: Issues
+                - generic "3" [ref=f2e110]
+            - listitem [ref=f2e111]:
+              - link "Pull requests 1" [ref=f2e112] [cursor=pointer]:
+                - /url: /amzxyz/rime-wanxiang/pulls
+                - generic [ref=f2e115]: Pull requests
+                - generic "1" [ref=f2e116]
+            - listitem [ref=f2e117]:
+              - link "Discussions" [ref=f2e118] [cursor=pointer]:
+                - /url: /amzxyz/rime-wanxiang/discussions
+            - listitem [ref=f2e122]:
+              - link "Actions" [ref=f2e123] [cursor=pointer]:
+                - /url: /amzxyz/rime-wanxiang/actions
+            - listitem [ref=f2e127]:
+              - link "Wiki" [ref=f2e128] [cursor=pointer]:
+                - /url: /amzxyz/rime-wanxiang/wiki
+            - listitem [ref=f2e132]:
+              - link "Security and quality" [ref=f2e133] [cursor=pointer]:
+                - /url: /amzxyz/rime-wanxiang/security
+            - listitem [ref=f2e137]:
+              - link "Insights" [ref=f2e138] [cursor=pointer]:
+                - /url: /amzxyz/rime-wanxiang/pulse
+      - generic [ref=f2e155]:
+        - generic [ref=f2e158]:
+          - generic [ref=f2e159]:
+            - generic [ref=f2e160]:
+              - button "wanxiang branch" [ref=f2e162] [cursor=pointer]:
+                - generic [ref=f2e163]: wanxiang
+              - generic [ref=f2e167]:
+                - link [ref=f2e168] [cursor=pointer]:
+                  - /url: /amzxyz/rime-wanxiang/branches
+                  - generic [ref=f2e171]:
+                    - strong [ref=f2e172]: "16"
+                    - text: Branches
+                - link [ref=f2e173] [cursor=pointer]:
+                  - /url: /amzxyz/rime-wanxiang/tags
+                  - generic [ref=f2e176]:
+                    - strong [ref=f2e177]: "380"
+                    - text: Tags
+            - generic [ref=f2e178]:
+              - combobox "Go to file" [ref=f2e186]
+              - button "Code" [ref=f2e187] [cursor=pointer]
+          - generic [ref=f2e190]:
+            - generic [ref=f2e191]:
+              - generic [ref=f2e193]:
+                - heading "Latest commit" [level=2] [ref=f2e194]
+                - generic [ref=f2e195]:
+                  - generic [ref=f2e197]:
+                    - link [ref=f2e198] [cursor=pointer]:
+                      - /url: /amzxyz
+                      - img "amzxyz" [ref=f2e199]
+                    - link "commits by amzxyz" [ref=f2e200] [cursor=pointer]:
+                      - /url: /amzxyz/rime-wanxiang/commits?author=amzxyz
+                      - text: amzxyz
+                  - generic [ref=f2e201]:
+                    - 'link "dict: 词库调整" [ref=f2e204] [cursor=pointer]':
+                      - /url: /amzxyz/rime-wanxiang/commit/a313e25ac2d63c1bd5c2fa03e7b566515fcbb9c9
+                    - button "success" [ref=f2e205] [cursor=pointer]
+                - generic [ref=f2e208]:
+                  - generic [ref=f2e210]:
+                    - link "Commit a313e25" [ref=f2e211] [cursor=pointer]:
+                      - /url: /amzxyz/rime-wanxiang/commit/a313e25ac2d63c1bd5c2fa03e7b566515fcbb9c9
+                      - text: a313e25
+                    - text: ·
+                    - generic "Aug 28, 2026, 6:45 PM GMT+8" [ref=f2e212]: Aug 28, 20262 hours ago
+                  - generic [ref=f2e213]:
+                    - heading "History" [level=2] [ref=f2e214]
+                    - link "1,371 Commits" [ref=f2e215] [cursor=pointer]:
+                      - /url: /amzxyz/rime-wanxiang/commits/wanxiang/
+              - heading "Folders and files" [level=2] [ref=f2e218]
+              - table "Folders and files" [ref=f2e219]:
+                - rowgroup:
+                  - row "Name Last commit message Last commit date":
+                    - columnheader "Name"
+                    - columnheader "Last commit message"
+                    - columnheader "Last commit date"
+                - rowgroup [ref=f2e220]:
+                  - row [ref=f2e221]:
+                    - cell [ref=f2e222]:
+                      - link ".github/workflows, (Directory)" [ref=f2e229] [cursor=pointer]:
+                        - /url: /amzxyz/rime-wanxiang/tree/wanxiang/.github/workflows
+                        - text: .github/workflows
+                    - cell [ref=f2e230]:
+                      - 'link "dict: 词库调整" [ref=f2e233] [cursor=pointer]':
+                        - /url: /amzxyz/rime-wanxiang/commit/5235267f0786661e4b0f1126a7e11f6324de3f76
+                    - cell "Aug 27, 2026yesterday" [ref=f2e234]
+                  - row [ref=f2e236]:
+                    - cell [ref=f2e237]:
+                      - link "custom, (Directory)" [ref=f2e244] [cursor=pointer]:
+                        - /url: /amzxyz/rime-wanxiang/tree/wanxiang/custom
+                        - text: custom
+                    - cell [ref=f2e245]:
+                      - 'link "fix: 优化正则排除斜杠" [ref=f2e248] [cursor=pointer]':
+                        - /url: /amzxyz/rime-wanxiang/commit/80873f4fa45f306ac1a9032e72be954637591c16
+                    - cell "Aug 27, 2026yesterday" [ref=f2e249]
+                  - row [ref=f2e251]:
+                    - cell [ref=f2e252]:
+                      - link "dicts, (Directory)" [ref=f2e259] [cursor=pointer]:
+                        - /url: /amzxyz/rime-wanxiang/tree/wanxiang/dicts
+                        - text: dicts
+                    - cell [ref=f2e260]:
+                      - 'link "dict: 词库调整" [ref=f2e263] [cursor=pointer]':
+                        - /url: /amzxyz/rime-wanxiang/commit/a313e25ac2d63c1bd5c2fa03e7b566515fcbb9c9
+                    - cell "Aug 28, 20262 hours ago" [ref=f2e264]
+                  - row [ref=f2e266]:
+                    - cell [ref=f2e267]:
+                      - link "docs, (Directory)" [ref=f2e274] [cursor=pointer]:
+                        - /url: /amzxyz/rime-wanxiang/tree/wanxiang/docs
+                        - text: docs
+                    - cell [ref=f2e275]:
+                      - 'link "chore: 更新文档" [ref=f2e278] [cursor=pointer]':
+                        - /url: /amzxyz/rime-wanxiang/commit/209b1ba50e2d6b8efba2cb19e8ca8550b40d4e59
+                    - cell "Aug 27, 2026yesterday" [ref=f2e279]
+                  - row [ref=f2e281]:
+                    - cell [ref=f2e282]:
+                      - link "lua, (Directory)" [ref=f2e289] [cursor=pointer]:
+                        - /url: /amzxyz/rime-wanxiang/tree/wanxiang/lua
+                        - text: lua
+                    - cell [ref=f2e290]:
+                      - 'link "chore(wanxiang): release 17.7.1" [ref=f2e293] [cursor=pointer]':
+                        - /url: /amzxyz/rime-wanxiang/commit/4b86b19fbc3e5968da3af3271ce36d8b320c5e73
+                    - cell "Aug 27, 2026yesterday" [ref=f2e294]
+                  - row [ref=f2e296]:
+                    - cell [ref=f2e297]:
+                      - link ".gitattributes, (File)" [ref=f2e304] [cursor=pointer]:
+                        - /url: /amzxyz/rime-wanxiang/blob/wanxiang/.gitattributes
+                        - text: .gitattributes
+                    - cell [ref=f2e305]:
+                      - 'link "dict: 词库调整" [ref=f2e308] [cursor=pointer]':
+                        - /url: /amzxyz/rime-wanxiang/commit/56884062500ddc5ccd82d89f94049fd6218355ba
+                    - cell "May 19, 20263 months ago" [ref=f2e309]
+                  - row [ref=f2e311]:
+                    - cell [ref=f2e312]:
+                      - link ".gitignore, (File)" [ref=f2e319] [cursor=pointer]:
+                        - /url: /amzxyz/rime-wanxiang/blob/wanxiang/.gitignore
+                        - text: .gitignore
+                    - cell [ref=f2e320]:
+                      - 'link "dict: 词库调整" [ref=f2e323] [cursor=pointer]':
+                        - /url: /amzxyz/rime-wanxiang/commit/d65d1d0e6c8f29ebe736018bff870c6995a63583
+                    - cell "Jun 25, 20262 months ago" [ref=f2e324]
+                  - row [ref=f2e326]:
+                    - cell [ref=f2e327]:
+                      - link ".release-please-manifest.json, (File)" [ref=f2e334] [cursor=pointer]:
+                        - /url: /amzxyz/rime-wanxiang/blob/wanxiang/.release-please-manifest.json
+                        - text: .release-please-manifest.json
+                    - cell [ref=f2e335]:
+                      - 'link "chore(wanxiang): release 17.7.1" [ref=f2e338] [cursor=pointer]':
+                        - /url: /amzxyz/rime-wanxiang/commit/4b86b19fbc3e5968da3af3271ce36d8b320c5e73
+                    - cell "Aug 27, 2026yesterday" [ref=f2e339]
+                  - row [ref=f2e341]:
+                    - cell [ref=f2e342]:
+                      - link ".yamlfmt, (File)" [ref=f2e349] [cursor=pointer]:
+                        - /url: /amzxyz/rime-wanxiang/blob/wanxiang/.yamlfmt
+                        - text: .yamlfmt
+                    - cell [ref=f2e350]:
+                      - 'link "fix: 格式化yaml" [ref=f2e353] [cursor=pointer]':
+                        - /url: /amzxyz/rime-wanxiang/commit/262218c65810da9bb7c9c9ebb2fdbd9bd7b54e65
+                    - cell "Jun 6, 20262 months ago" [ref=f2e354]
+                  - row [ref=f2e356]:
+                    - cell [ref=f2e357]:
+                      - link "AGENTS.md, (File)" [ref=f2e364] [cursor=pointer]:
+                        - /url: /amzxyz/rime-wanxiang/blob/wanxiang/AGENTS.md
+                        - text: AGENTS.md
+                    - cell [ref=f2e365]:
+                      - 'link "chore: 添加AGENTS.md" [ref=f2e368] [cursor=pointer]':
+                        - /url: /amzxyz/rime-wanxiang/commit/bf0456b19375203b79e3e1a28ce56bd5ef7ceef7
+                    - cell "Aug 28, 202611 hours ago" [ref=f2e369]
+                  - row [ref=f2e371]:
+                    - cell [ref=f2e372]:
+                      - link "CHANGELOG.md, (File)" [ref=f2e379] [cursor=pointer]:
+                        - /url: /amzxyz/rime-wanxiang/blob/wanxiang/CHANGELOG.md
+                        - text: CHANGELOG.md
+                    - cell [ref=f2e380]:
+                      - 'link "chore(wanxiang): release 17.7.1" [ref=f2e383] [cursor=pointer]':
+                        - /url: /amzxyz/rime-wanxiang/commit/4b86b19fbc3e5968da3af3271ce36d8b320c5e73
+                    - cell "Aug 27, 2026yesterday" [ref=f2e384]
+                  - row [ref=f2e386]:
+                    - cell [ref=f2e387]:
+                      - link "LICENSE, (File)" [ref=f2e394] [cursor=pointer]:
+                        - /url: /amzxyz/rime-wanxiang/blob/wanxiang/LICENSE
+                        - text: LICENSE
+                    - cell [ref=f2e395]:
+                      - 'link "fix: 格式化权限与换行" [ref=f2e398] [cursor=pointer]':
+                        - /url: /amzxyz/rime-wanxiang/commit/b0d71637ebf4a609aab3a3f54ff41204ae78390e
+                    - cell "May 19, 20263 months ago" [ref=f2e399]
+                  - row [ref=f2e401]:
+                    - cell [ref=f2e402]:
+                      - link "README.md, (File)" [ref=f2e409] [cursor=pointer]:
+                        - /url: /amzxyz/rime-wanxiang/blob/wanxiang/README.md
+                        - text: README.md
+                    - cell [ref=f2e410]:
+                      - 'link "chore: 完善文档" [ref=f2e413] [cursor=pointer]':
+                        - /url: /amzxyz/rime-wanxiang/commit/227b610b112cb93b3bf3e1934e3d863284e05531
+                    - cell "Aug 26, 20262 days ago" [ref=f2e414]
+                  - row [ref=f2e416]:
+                    - cell [ref=f2e417]:
+                      - link "custom_phrase.txt, (File)" [ref=f2e424] [cursor=pointer]:
+                        - /url: /amzxyz/rime-wanxiang/blob/wanxiang/custom_phrase.txt
+                        - text: custom_phrase.txt
+                    - cell [ref=f2e425]:
+                      - 'link "fix: 文本格式化同步新增周相关占位" [ref=f2e428] [cursor=pointer]':
+                        - /url: /amzxyz/rime-wanxiang/commit/f69e8534c08b70107988f77fdb0521d0a88745f3
+                    - cell "Jul 1, 20262 months ago" [ref=f2e429]
+                  - row [ref=f2e431]:
+                    - cell [ref=f2e432]:
+                      - link "default.yaml, (File)" [ref=f2e439] [cursor=pointer]:
+                        - /url: /amzxyz/rime-wanxiang/blob/wanxiang/default.yaml
+                        - text: default.yaml
+                    - cell [ref=f2e440]:
+                      - 'link "feat: 新增万象Lite方案版本" [ref=f2e443] [cursor=pointer]':
+                        - /url: /amzxyz/rime-wanxiang/commit/fc818c1f7f6aa857b3857dc8293d354c9724d43f
+                    - cell "Aug 26, 20262 days ago" [ref=f2e444]
+                  - row [ref=f2e446]:
+                    - cell [ref=f2e447]:
+                      - link "mkdocs.yml, (File)" [ref=f2e454] [cursor=pointer]:
+                        - /url: /amzxyz/rime-wanxiang/blob/wanxiang/mkdocs.yml
+                        - text: mkdocs.yml
+                    - cell [ref=f2e455]:
+                      - 'link "fix: 测试完毕" [ref=f2e458] [cursor=pointer]':
+                        - /url: /amzxyz/rime-wanxiang/commit/9623260bcb56fa6201acacaa5271f4d5f7b18345
+                    - cell "Aug 27, 2026yesterday" [ref=f2e459]
+                  - row [ref=f2e461]:
+                    - cell [ref=f2e462]:
+                      - link "release-please-config.json, (File)" [ref=f2e469] [cursor=pointer]:
+                        - /url: /amzxyz/rime-wanxiang/blob/wanxiang/release-please-config.json
+                        - text: release-please-config.json
+                    - cell [ref=f2e470]:
+                      - 'link "fix: 修改自动化" [ref=f2e473] [cursor=pointer]':
+                        - /url: /amzxyz/rime-wanxiang/commit/6b0d9bb395ad3dd22c3e8cd4218670d80891f7eb
+                    - cell "Mar 2, 20266 months ago" [ref=f2e474]
+                  - row [ref=f2e476]:
+                    - cell [ref=f2e477]:
+                      - link "version.txt, (File)" [ref=f2e484] [cursor=pointer]:
+                        - /url: /amzxyz/rime-wanxiang/blob/wanxiang/version.txt
+                        - text: version.txt
+                    - cell [ref=f2e485]:
+                      - 'link "chore(wanxiang): release 17.7.1" [ref=f2e488] [cursor=pointer]':
+                        - /url: /amzxyz/rime-wanxiang/commit/4b86b19fbc3e5968da3af3271ce36d8b320c5e73
+                    - cell "Aug 27, 2026yesterday" [ref=f2e489]
+                  - row [ref=f2e491]:
+                    - cell [ref=f2e492]:
+                      - link "wanxiang.dict.yaml, (File)" [ref=f2e499] [cursor=pointer]:
+                        - /url: /amzxyz/rime-wanxiang/blob/wanxiang/wanxiang.dict.yaml
+                        - text: wanxiang.dict.yaml
+                    - cell [ref=f2e500]:
+                      - 'link "dict: 新增独立台风词库" [ref=f2e503] [cursor=pointer]':
+                        - /url: /amzxyz/rime-wanxiang/commit/f9887d6ef818e7781497080cf5a73d0f9f33088e
+                    - cell "Jul 7, 2026last month" [ref=f2e504]
+                  - row [ref=f2e506]:
+                    - cell [ref=f2e507]:
+                      - link "wanxiang.schema.yaml, (File)" [ref=f2e514] [cursor=pointer]:
+                        - /url: /amzxyz/rime-wanxiang/blob/wanxiang/wanxiang.schema.yaml
+                        - text: wanxiang.schema.yaml
+                    - cell [ref=f2e515]:
+                      - 'link "fix: 优化正则排除斜杠" [ref=f2e518] [cursor=pointer]':
+                        - /url: /amzxyz/rime-wanxiang/commit/80873f4fa45f306ac1a9032e72be954637591c16
+                    - cell "Aug 27, 2026yesterday" [ref=f2e519]
+                  - row [ref=f2e521]:
+                    - cell [ref=f2e522]:
+                      - link "wanxiang_algebra.yaml, (File)" [ref=f2e529] [cursor=pointer]:
+                        - /url: /amzxyz/rime-wanxiang/blob/wanxiang/wanxiang_algebra.yaml
+                        - text: wanxiang_algebra.yaml
+                    - cell [ref=f2e530]:
+                      - 'link "feat: 新增万象Lite方案版本" [ref=f2e533] [cursor=pointer]':
+                        - /url: /amzxyz/rime-wanxiang/commit/fc818c1f7f6aa857b3857dc8293d354c9724d43f
+                    - cell "Aug 26, 20262 days ago" [ref=f2e534]
+                  - row [ref=f2e536]:
+                    - cell [ref=f2e537]:
+                      - link "wanxiang_english.dict.yaml, (File)" [ref=f2e544] [cursor=pointer]:
+                        - /url: /amzxyz/rime-wanxiang/blob/wanxiang/wanxiang_english.dict.yaml
+                        - text: wanxiang_english.dict.yaml
+                    - cell [ref=f2e545]:
+                      - 'link "dict: 英文词库改成权重排序" [ref=f2e548] [cursor=pointer]':
+                        - /url: /amzxyz/rime-wanxiang/commit/1b6ca87e19248c31039fa0513645670ab227c87c
+                    - cell "Jul 1, 20262 months ago" [ref=f2e549]
+                  - row [ref=f2e551]:
+                    - cell [ref=f2e552]:
+                      - link "wanxiang_english.schema.yaml, (File)" [ref=f2e559] [cursor=pointer]:
+                        - /url: /amzxyz/rime-wanxiang/blob/wanxiang/wanxiang_english.schema.yaml
+                        - text: wanxiang_english.schema.yaml
+                    - cell [ref=f2e560]:
+                      - 'link "fix: 英文replacer数据位置调整" [ref=f2e563] [cursor=pointer]':
+                        - /url: /amzxyz/rime-wanxiang/commit/2da4d4b4f2adc7d8fda27cefc8dc85f2c9f36f24
+                    - cell "Jul 29, 2026last month" [ref=f2e564]
+                  - row [ref=f2e566]:
+                    - cell [ref=f2e567]:
+                      - link "wanxiang_mixedcode.dict.yaml, (File)" [ref=f2e574] [cursor=pointer]:
+                        - /url: /amzxyz/rime-wanxiang/blob/wanxiang/wanxiang_mixedcode.dict.yaml
+                        - text: wanxiang_mixedcode.dict.yaml
+                    - cell [ref=f2e575]:
+                      - 'link "dict: mixed dict update" [ref=f2e578] [cursor=pointer]':
+                        - /url: /amzxyz/rime-wanxiang/commit/25e556801806130add4edab3fc3f6893ae9663c6
+                    - cell "Jul 8, 2026last month" [ref=f2e579]
+                  - row [ref=f2e581]:
+                    - cell [ref=f2e582]:
+                      - link "wanxiang_mixedcode.schema.yaml, (File)" [ref=f2e589] [cursor=pointer]:
+                        - /url: /amzxyz/rime-wanxiang/blob/wanxiang/wanxiang_mixedcode.schema.yaml
+                        - text: wanxiang_mixedcode.schema.yaml
+                    - cell [ref=f2e590]:
+                      - 'link "fix: 格式化yaml" [ref=f2e593] [cursor=pointer]':
+                        - /url: /amzxyz/rime-wanxiang/commit/262218c65810da9bb7c9c9ebb2fdbd9bd7b54e65
+                    - cell "Jun 6, 20262 months ago" [ref=f2e594]
+                  - row [ref=f2e596]:
+                    - cell [ref=f2e597]:
+                      - link "wanxiang_reverse.dict.yaml, (File)" [ref=f2e604] [cursor=pointer]:
+                        - /url: /amzxyz/rime-wanxiang/blob/wanxiang/wanxiang_reverse.dict.yaml
+                        - text: wanxiang_reverse.dict.yaml
+                    - cell [ref=f2e605]:
+                      - 'link "fix: 优化super_comment以支持多种方案" [ref=f2e608] [cursor=pointer]':
+                        - /url: /amzxyz/rime-wanxiang/commit/1e4fed412d65183cd29ef913100f3f47e974d42c
+                    - cell "Aug 26, 20262 days ago" [ref=f2e609]
+                  - row [ref=f2e611]:
+                    - cell [ref=f2e612]:
+                      - link "wanxiang_reverse.schema.yaml, (File)" [ref=f2e619] [cursor=pointer]:
+                        - /url: /amzxyz/rime-wanxiang/blob/wanxiang/wanxiang_reverse.schema.yaml
+                        - text: wanxiang_reverse.schema.yaml
+                    - cell [ref=f2e620]:
+                      - 'link "fix: 格式化yaml" [ref=f2e623] [cursor=pointer]':
+                        - /url: /amzxyz/rime-wanxiang/commit/262218c65810da9bb7c9c9ebb2fdbd9bd7b54e65
+                    - cell "Jun 6, 20262 months ago" [ref=f2e624]
+                  - row [ref=f2e626]:
+                    - cell [ref=f2e627]:
+                      - link "wanxiang_symbols.yaml, (File)" [ref=f2e634] [cursor=pointer]:
+                        - /url: /amzxyz/rime-wanxiang/blob/wanxiang/wanxiang_symbols.yaml
+                        - text: wanxiang_symbols.yaml
+                    - cell [ref=f2e635]:
+                      - 'link "fix: 梳理符号将emoji都以/e前缀表示，可能可以掌握的并不多，保障所有key不重合" [ref=f2e638] [cursor=pointer]':
+                        - /url: /amzxyz/rime-wanxiang/commit/2730e36c0203c4d36c50733048c076d8ac8e0d85
+                    - cell "Aug 17, 20262 weeks ago" [ref=f2e639]
+                  - row [ref=f2e641]:
+                    - cell [ref=f2e642]:
+                      - link "wanxiang_t9.schema.yaml, (File)" [ref=f2e649] [cursor=pointer]:
+                        - /url: /amzxyz/rime-wanxiang/blob/wanxiang/wanxiang_t9.schema.yaml
+                        - text: wanxiang_t9.schema.yaml
+                    - cell [ref=f2e650]:
+                      - 'link "fix: 优化正则排除斜杠" [ref=f2e653] [cursor=pointer]':
+                        - /url: /amzxyz/rime-wanxiang/commit/80873f4fa45f306ac1a9032e72be954637591c16
+                    - cell "Aug 27, 2026yesterday" [ref=f2e654]
+                  - row [ref=f2e656]:
+                    - cell [ref=f2e657]:
+                      - link "wanxiang_t9i.schema.yaml, (File)" [ref=f2e664] [cursor=pointer]:
+                        - /url: /amzxyz/rime-wanxiang/blob/wanxiang/wanxiang_t9i.schema.yaml
+                        - text: wanxiang_t9i.schema.yaml
+                    - cell [ref=f2e665]:
+                      - 'link "fix: 优化正则排除斜杠" [ref=f2e668] [cursor=pointer]':
+                        - /url: /amzxyz/rime-wanxiang/commit/80873f4fa45f306ac1a9032e72be954637591c16
+                    - cell "Aug 27, 2026yesterday" [ref=f2e669]
+                  - row [ref=f2e671]:
+                    - cell [ref=f2e672]:
+                      - link "weasel.yaml, (File)" [ref=f2e679] [cursor=pointer]:
+                        - /url: /amzxyz/rime-wanxiang/blob/wanxiang/weasel.yaml
+                        - text: weasel.yaml
+                    - cell [ref=f2e680]:
+                      - 'link "fix: 全面恢复小狼毫皮肤配色" [ref=f2e683] [cursor=pointer]':
+                        - /url: /amzxyz/rime-wanxiang/commit/e2c62b803c2f6193a3e8ab6096675e67437fd842
+                    - cell "Jun 11, 20262 months ago" [ref=f2e684]
+            - generic [ref=f2e687]:
+              - generic [ref=f2e688]:
+                - heading "Repository files navigation" [level=2] [ref=f2e689]
+                - navigation "Repository files" [ref=f2e690]:
+                  - list [ref=f2e691]:
+                    - listitem [ref=f2e692]:
+                      - link "README" [ref=f2e693] [cursor=pointer]:
+                        - /url: "#"
+                    - listitem [ref=f2e698]:
+                      - link "CC-BY-4.0 license" [ref=f2e699] [cursor=pointer]:
+                        - /url: "#"
+                - button "Outline" [ref=f2e704] [cursor=pointer]
+              - article [ref=f2e708]:
+                - generic [ref=f2e709]:
+                  - generic [ref=f2e710]:
+                    - heading "🌳 万象拼音" [level=1] [ref=f2e711]
+                    - 'link "Permalink: 🌳 万象拼音" [ref=f2e712] [cursor=pointer]':
+                      - /url: "#-万象拼音"
+                  - paragraph [ref=f2e715]:
+                    - strong [ref=f2e716]: 重塑 Rime 生态，带来极致的输入体验。
+                  - paragraph [ref=f2e717]:
+                    - link [ref=f2e718] [cursor=pointer]:
+                      - /url: https://amzxyz.github.io/rime-wanxiang/
+                      - img "快速上手" [ref=f2e719]
+                    - link [ref=f2e720] [cursor=pointer]:
+                      - /url: https://github.com/amzxyz/rime-wanxiang
+                      - img "GitHub" [ref=f2e721]
+                    - link [ref=f2e722] [cursor=pointer]:
+                      - /url: https://creativecommons.org/licenses/by/4.0/
+                      - 'img "License: CC BY 4.0" [ref=f2e723]'
+                    - link [ref=f2e724] [cursor=pointer]:
+                      - /url: https://github.com/amzxyz/rime-wanxiang/releases/
+                      - img "GitHub Release" [ref=f2e725]
+                    - link [ref=f2e726] [cursor=pointer]:
+                      - /url: https://github.com/amzxyz/rime-wanxiang/actions/workflows/release.yml
+                      - img "GitHub Actions Workflow Status" [ref=f2e727]
+                    - link [ref=f2e728] [cursor=pointer]:
+                      - /url: https://github.com/amzxyz/rime-wanxiang/stargazers
+                      - img "GitHub Repo stars" [ref=f2e729]
+                - separator [ref=f2e730]
+                - generic [ref=f2e731]:
+                  - heading "🌌 万象拼音——基于深度优化的词库和语法模型" [level=2] [ref=f2e732]
+                  - 'link "Permalink: 🌌 万象拼音——基于深度优化的词库和语法模型" [ref=f2e733] [cursor=pointer]':
+                    - /url: "#-万象拼音基于深度优化的词库和语法模型"
+                - blockquote [ref=f2e736]:
+                  - paragraph [ref=f2e737]:
+                    - strong [ref=f2e738]: 💎 核心基石：
+                    - link "万象词库" [ref=f2e739] [cursor=pointer]:
+                      - /url: https://github.com/amzxyz/RIME-LMDG
+                    - text: 经 AI 与海量语料深度优化(目前已进入手动维护期)，是一款专为“语句流”“类大厂”打造的全方案立体词库。它将
+                    - strong [ref=f2e740]: 带调拼音标注、词组构成与精准词频
+                    - text: 作为体验基石，以日常与专业词汇为主体，结合语法模型，为您带来精准、流畅的输入体验。
+                - list [ref=f2e741]:
+                  - listitem [ref=f2e742]:
+                    - strong [ref=f2e743]: 开放生态
+                    - text: ：支持高度自定义，鼓励通过“词库 + 转写”打造您的专属输入方案。
+                  - listitem [ref=f2e744]:
+                    - strong [ref=f2e745]: 持续打磨
+                    - text: ：我们极度重视数据准确与时效，欢迎随时反馈。
+                  - listitem [ref=f2e746]:
+                    - text: 📝
+                    - strong [ref=f2e747]:
+                      - link "万象词库问题收集反馈表" [ref=f2e748] [cursor=pointer]:
+                        - /url: https://docs.qq.com/smartsheet/DWHZsdnZZaGh5bWJI?viewId=vUQPXH&tab=BB08J2
+                - separator [ref=f2e749]
+                - generic [ref=f2e750]:
+                  - heading "✨ 效果预览" [level=2] [ref=f2e751]
+                  - 'link "Permalink: ✨ 效果预览" [ref=f2e752] [cursor=pointer]':
+                    - /url: "#-效果预览"
+                - paragraph [ref=f2e755]:
+                  - link [ref=f2e756] [cursor=pointer]:
+                    - /url: https://camo.githubusercontent.com/72df75a1b5b65e2df5a745c536298e7cfecca9cdf293c3e7ea383e1d08751e5b/68747470733a2f2f73746f726167652e64656570696e2e6f72672f7468726561642f3230323530323230303335383130343938375f2545362539352538382545362539452539432e706e67
+                - separator [ref=f2e757]
+                - generic [ref=f2e758]:
+                  - heading "🧭 探索万象" [level=2] [ref=f2e759]
+                  - 'link "Permalink: 🧭 探索万象" [ref=f2e760] [cursor=pointer]':
+                    - /url: "#-探索万象"
+                - table [ref=f2e764]:
+                  - rowgroup [ref=f2e765]:
+                    - row [ref=f2e766]:
+                      - cell [ref=f2e767]:
+                        - generic [ref=f2e768]:
+                          - generic [ref=f2e769]:
+                            - heading "🚀 快速上手" [level=3] [ref=f2e770]
+                            - 'link "Permalink: 🚀 快速上手" [ref=f2e771] [cursor=pointer]':
+                              - /url: "#-快速上手"
+                          - paragraph [ref=f2e774]: 从零开始，为您在 Windows、macOS 以及 iOS/Android 移动端部署万象。
+                          - link [ref=f2e775] [cursor=pointer]:
+                            - /url: https://amzxyz.github.io/rime-wanxiang/doc/intro
+                            - strong [ref=f2e776]: ➡️ 立即安装
+                      - cell [ref=f2e777]:
+                        - generic [ref=f2e778]:
+                          - generic [ref=f2e779]:
+                            - heading "⌨️ 核心输入体系" [level=3] [ref=f2e780]
+                            - 'link "Permalink: ⌨️ 核心输入体系" [ref=f2e781] [cursor=pointer]':
+                              - /url: "#️-核心输入体系"
+                          - paragraph [ref=f2e784]: 深入解析万象独特的“带调拼音标注”、强大的辅码系统（小鹤、自然码等）以及中英混输机制。
+                          - link [ref=f2e785] [cursor=pointer]:
+                            - /url: https://amzxyz.github.io/rime-wanxiang/doc/aux_code
+                            - strong [ref=f2e786]: ➡️ 了解核心
+                    - row [ref=f2e787]:
+                      - cell [ref=f2e788]:
+                        - generic [ref=f2e789]:
+                          - generic [ref=f2e790]:
+                            - heading "🪄 Lua 魔法扩展" [level=3] [ref=f2e791]
+                            - 'link "Permalink: 🪄 Lua 魔法扩展" [ref=f2e792] [cursor=pointer]':
+                              - /url: "#-lua-魔法扩展"
+                          - paragraph [ref=f2e795]: 计算器、超级注释、符号包裹、动态时间戳、超级符号库（按名输入数千 Unicode 符号）... 探索让 Rime 拥有“超能力”的数十种微创新脚本。
+                          - link [ref=f2e796] [cursor=pointer]:
+                            - /url: https://amzxyz.github.io/rime-wanxiang/doc/shijian
+                            - strong [ref=f2e797]: ➡️ 探索魔法
+                      - cell [ref=f2e798]:
+                        - generic [ref=f2e799]:
+                          - generic [ref=f2e800]:
+                            - heading "⚙️ 词库与模型" [level=3] [ref=f2e801]
+                            - 'link "Permalink: ⚙️ 词库与模型" [ref=f2e802] [cursor=pointer]':
+                              - /url: "#️-词库与模型"
+                          - paragraph [ref=f2e805]: 深度解析万象的现代数据工程。算一笔隐形的“时间账”，彻底告别低效的候选翻页，让输入如呼吸般自然。
+                          - link [ref=f2e806] [cursor=pointer]:
+                            - /url: https://amzxyz.github.io/rime-wanxiang/doc/dict_gram
+                            - strong [ref=f2e807]: ➡️ 揭秘底层逻辑
+                - separator [ref=f2e808]
+                - generic [ref=f2e809]:
+                  - heading "💎 四种版本，怎么选？" [level=2] [ref=f2e810]
+                  - 'link "Permalink: 💎 四种版本，怎么选？" [ref=f2e811] [cursor=pointer]':
+                    - /url: "#-四种版本怎么选"
+                - paragraph [ref=f2e814]:
+                  - text: 万象目前提供
+                  - strong [ref=f2e815]: Base / Pro / Lite / Pure
+                  - text: 四种发行方案。 它们共享万象的核心数据体系，但在
+                  - strong [ref=f2e816]: 功能完整度、辅助码、Lua 扩展与运行环境
+                  - text: 上各有侧重。
+                - table [ref=f2e818]:
+                  - rowgroup [ref=f2e819]:
+                    - row [ref=f2e820]:
+                      - columnheader [ref=f2e821]
+                      - columnheader [ref=f2e822]:
+                        - text: 🟢
+                        - strong [ref=f2e823]: Base
+                      - columnheader [ref=f2e824]:
+                        - text: 🔵
+                        - strong [ref=f2e825]: Pro
+                      - columnheader [ref=f2e826]:
+                        - text: 🟡
+                        - strong [ref=f2e827]: Lite
+                      - columnheader [ref=f2e828]:
+                        - text: ⚪
+                        - strong [ref=f2e829]: Pure
+                  - rowgroup [ref=f2e830]:
+                    - row [ref=f2e831]:
+                      - cell [ref=f2e832]:
+                        - strong [ref=f2e833]: 定位
+                      - cell "完整标准版" [ref=f2e834]
+                      - cell "双拼 / 辅助码增强版" [ref=f2e835]
+                      - cell "轻量现代版" [ref=f2e836]
+                      - cell "原生兼容版" [ref=f2e837]
+                    - row [ref=f2e838]:
+                      - cell [ref=f2e839]:
+                        - strong [ref=f2e840]: 适合谁
+                      - cell "全拼、双拼及绝大多数用户" [ref=f2e841]
+                      - cell "重度双拼、辅助码与精细控制用户" [ref=f2e842]
+                      - cell "希望减少重型功能的日常用户" [ref=f2e843]
+                      - cell "老系统、旧 Rime、无 Lua 环境" [ref=f2e844]
+                    - row [ref=f2e845]:
+                      - cell [ref=f2e846]:
+                        - strong [ref=f2e847]: 输入方式
+                      - cell "全拼 + 双拼" [ref=f2e848]
+                      - cell "双拼 + 多套辅助码" [ref=f2e849]
+                      - cell "全拼 + 双拼" [ref=f2e850]
+                      - cell "全拼 + 双拼" [ref=f2e851]
+                    - row [ref=f2e852]:
+                      - cell [ref=f2e853]:
+                        - strong [ref=f2e854]: 词库
+                      - cell "完整带调万象词库" [ref=f2e855]
+                      - cell "独立 Pro 辅助码词库" [ref=f2e856]
+                      - cell "无声调 Lite 词库" [ref=f2e857]
+                      - cell "Pure 专用轻量入口" [ref=f2e858]
+                    - row [ref=f2e859]:
+                      - cell [ref=f2e860]:
+                        - strong [ref=f2e861]: Lua 扩展
+                      - cell "✅ 完整" [ref=f2e862]
+                      - cell "✅ 完整增强" [ref=f2e863]
+                      - cell "🟡 保留常用、裁剪重模块" [ref=f2e864]
+                      - cell "❌ 不携带 Lua" [ref=f2e865]
+                    - row [ref=f2e866]:
+                      - cell [ref=f2e867]:
+                        - strong [ref=f2e868]: 典型特点
+                      - cell "功能全面，开箱即用" [ref=f2e869]
+                      - cell "辅码、造词、筛选能力最强" [ref=f2e870]
+                      - cell "更轻、更少依赖" [ref=f2e871]
+                      - cell "最大化兼容性" [ref=f2e872]
+                    - row [ref=f2e873]:
+                      - cell [ref=f2e874]:
+                        - strong [ref=f2e875]: 主方案文件
+                      - cell [ref=f2e876]:
+                        - code [ref=f2e877]: wanxiang.schema.yaml
+                      - cell [ref=f2e878]:
+                        - code [ref=f2e879]: wanxiang_pro.schema.yaml
+                      - cell [ref=f2e880]:
+                        - code [ref=f2e881]: wanxiang_lite.schema.yaml
+                      - cell [ref=f2e882]:
+                        - code [ref=f2e883]: wanxiang_pure.schema.yaml
+                - generic [ref=f2e884]:
+                  - heading "一句话推荐" [level=3] [ref=f2e885]
+                  - 'link "Permalink: 一句话推荐" [ref=f2e886] [cursor=pointer]':
+                    - /url: "#一句话推荐"
+                - list [ref=f2e889]:
+                  - listitem [ref=f2e890]:
+                    - text: 🟢
+                    - strong [ref=f2e891]: Base
+                    - text: ：默认首选，第一次使用万象直接装它。
+                  - listitem [ref=f2e892]:
+                    - text: 🔵
+                    - strong [ref=f2e893]: Pro
+                    - text: ：明确知道自己需要双拼辅助码、造词或更强筛选能力时选择。
+                  - listitem [ref=f2e894]:
+                    - text: 🟡
+                    - strong [ref=f2e895]: Lite
+                    - text: ：喜欢 Base 的整体体验，但不需要预测、声调、复杂造词等重型功能。
+                  - listitem [ref=f2e896]:
+                    - text: ⚪
+                    - strong [ref=f2e897]: Pure
+                    - text: ：优先考虑兼容性，适合 Win7、fcitx4-rime 或无法运行 Lua 的环境。
+                - blockquote [ref=f2e898]:
+                  - paragraph [ref=f2e899]:
+                    - text: 更完整的功能差异与选型说明，请查看
+                    - link "万象拼音文档" [ref=f2e900] [cursor=pointer]:
+                      - /url: https://amzxyz.github.io/rime-wanxiang/
+                    - text: 。
+                - separator [ref=f2e901]
+                - generic [ref=f2e902]:
+                  - heading "生态：" [level=2] [ref=f2e903]
+                  - 'link "Permalink: 生态：" [ref=f2e904] [cursor=pointer]':
+                    - /url: "#生态"
+                - paragraph [ref=f2e907]:
+                  - link "薄荷拼音" [ref=f2e908] [cursor=pointer]:
+                    - /url: https://github.com/Mintimate/oh-my-rime
+                  - text: :使用万象词库的综合性方案，特别是其修改的地球拼音能够继承万象的词库声调编码。
+                - paragraph [ref=f2e909]:
+                  - link "鸢鸣万象" [ref=f2e910] [cursor=pointer]:
+                    - /url: https://github.com/yuanz-12/wanxiang_yoemin
+                  - text: :一个基于万象拼音生态融合李氏三拼与辅助码能力的手机用方案。
+                - paragraph [ref=f2e911]:
+                  - link "万象虎" [ref=f2e912] [cursor=pointer]:
+                    - /url: https://github.com/zhhwux/wxzhh
+                  - text: ": 一个基于万象生态的虎码整句方案。"
+                - separator [ref=f2e913]
+                - generic [ref=f2e914]:
+                  - link [ref=f2e915] [cursor=pointer]:
+                    - /url: /amzxyz/rime-wanxiang/blob/wanxiang/custom/赞赏.jpg
+                    - img "pay" [ref=f2e916]
+                  - paragraph [ref=f2e917]:
+                    - strong [ref=f2e918]: 如果觉得项目好用，欢迎在 GitHub 为我们点亮 Star！
+                  - paragraph
+                  - paragraph [ref=f2e919]: 用更优质的数据，接管你的候选词。
+        - generic [ref=f2e922]:
+          - generic [ref=f2e923]:
+            - heading "About" [level=2] [ref=f2e924]
+            - paragraph [ref=f2e925]: 「万象拼音」：把算法留在幕后，把纯粹还给指尖，用更优质的数据，接管你的候选。Q群：11033572 / 11631066
+            - generic "https://amzxyz.github.io/rime-wanxiang/" [ref=f2e929]:
+              - link "amzxyz.github.io/rime-wanxiang/" [ref=f2e930] [cursor=pointer]:
+                - /url: https://amzxyz.github.io/rime-wanxiang/
+            - heading "Topics" [level=3] [ref=f2e931]
+            - generic [ref=f2e932]:
+              - link "dicts" [ref=f2e933] [cursor=pointer]:
+                - /url: /topics/dicts
+              - link "ime" [ref=f2e934] [cursor=pointer]:
+                - /url: /topics/ime
+              - link "pinyin" [ref=f2e935] [cursor=pointer]:
+                - /url: /topics/pinyin
+              - link "rime" [ref=f2e936] [cursor=pointer]:
+                - /url: /topics/rime
+              - link "rime-config" [ref=f2e937] [cursor=pointer]:
+                - /url: /topics/rime-config
+              - link "rime-settings" [ref=f2e938] [cursor=pointer]:
+                - /url: /topics/rime-settings
+              - link "rime-wanxiang" [ref=f2e939] [cursor=pointer]:
+                - /url: /topics/rime-wanxiang
+            - heading "Resources" [level=3] [ref=f2e940]
+            - link "Readme" [ref=f2e942] [cursor=pointer]:
+              - /url: "#readme-ov-file"
+            - link "CC-BY-4.0 license" [ref=f2e946] [cursor=pointer]:
+              - /url: "#CC-BY-4.0-1-ov-file"
+            - link "Activity" [ref=f2e950] [cursor=pointer]:
+              - /url: /amzxyz/rime-wanxiang/activity
+            - heading "Stars" [level=3] [ref=f2e953]
+            - generic [ref=f2e955]:
+              - strong [ref=f2e958]: 4.5k
+              - text: stars
+            - heading "Watchers" [level=3] [ref=f2e959]
+            - generic [ref=f2e961]:
+              - strong [ref=f2e964]: "10"
+              - text: watching
+            - heading "Forks" [level=3] [ref=f2e965]
+            - link [ref=f2e967] [cursor=pointer]:
+              - /url: /amzxyz/rime-wanxiang/forks
+              - strong [ref=f2e971]: "168"
+              - text: forks
+            - link "Report repository" [ref=f2e973] [cursor=pointer]:
+              - /url: /contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Famzxyz%2Frime-wanxiang&report=amzxyz+%28user%29
+          - generic [ref=f2e974]:
+            - heading "Releases (376)" [level=2] [ref=f2e975]:
+              - generic [ref=f2e976]:
+                - link "Releases" [ref=f2e977] [cursor=pointer]:
+                  - /url: /amzxyz/rime-wanxiang/releases
+                - generic [ref=f2e978]: "376"
+                - generic [ref=f2e979]: (376)
+            - link "v17.7.1 Rime万象拼音输入方案 Latest Aug 27, 2026yesterday" [ref=f2e980] [cursor=pointer]:
+              - /url: /amzxyz/rime-wanxiang/releases/tag/v17.7.1
+              - generic [ref=f2e983]:
+                - generic [ref=f2e984]:
+                  - generic "v17.7.1 Rime万象拼音输入方案" [ref=f2e985]
+                  - generic [ref=f2e986]: Latest
+                - generic [ref=f2e987]: Aug 27, 2026yesterday
+            - link "+ 375 releases" [ref=f2e989] [cursor=pointer]:
+              - /url: /amzxyz/rime-wanxiang/releases
+          - generic [ref=f2e990]:
+            - heading "Contributors (18)" [level=2] [ref=f2e991]:
+              - generic [ref=f2e992]:
+                - link "Contributors" [ref=f2e993] [cursor=pointer]:
+                  - /url: /amzxyz/rime-wanxiang/graphs/contributors
+                - generic [ref=f2e994]: "18"
+                - generic [ref=f2e995]: (18)
+            - list [ref=f2e996]:
+              - listitem [ref=f2e997]:
+                - link [ref=f2e998] [cursor=pointer]:
+                  - /url: /amzxyz
+                  - img "@amzxyz" [ref=f2e999]
+              - listitem [ref=f2e1000]:
+                - link [ref=f2e1001] [cursor=pointer]:
+                  - /url: /github-actions[bot]
+                  - img "@github-actions[bot]" [ref=f2e1002]
+              - listitem [ref=f2e1003]:
+                - link [ref=f2e1004] [cursor=pointer]:
+                  - /url: /ShiningYangYXN
+                  - img "@ShiningYangYXN" [ref=f2e1005]
+              - listitem [ref=f2e1006]:
+                - link [ref=f2e1007] [cursor=pointer]:
+                  - /url: /yuanz-12
+                  - img "@yuanz-12" [ref=f2e1008]
+              - listitem [ref=f2e1009]:
+                - link [ref=f2e1010] [cursor=pointer]:
+                  - /url: /shoudaoshuangpin
+                  - img "@shoudaoshuangpin" [ref=f2e1011]
+              - listitem [ref=f2e1012]:
+                - link [ref=f2e1013] [cursor=pointer]:
+                  - /url: /suiginko
+                  - img "@suiginko" [ref=f2e1014]
+              - listitem [ref=f2e1015]:
+                - link [ref=f2e1016] [cursor=pointer]:
+                  - /url: /olivezane
+                  - img "@olivezane" [ref=f2e1017]
+              - listitem [ref=f2e1018]:
+                - link [ref=f2e1019] [cursor=pointer]:
+                  - /url: /everyx
+                  - img "@everyx" [ref=f2e1020]
+              - listitem [ref=f2e1021]:
+                - link [ref=f2e1022] [cursor=pointer]:
+                  - /url: /thegoldenflow
+                  - img "@thegoldenflow" [ref=f2e1023]
+              - listitem [ref=f2e1024]:
+                - link [ref=f2e1025] [cursor=pointer]:
+                  - /url: /XiHanQWQ
+                  - img "@XiHanQWQ" [ref=f2e1026]
+              - listitem [ref=f2e1027]:
+                - link [ref=f2e1028] [cursor=pointer]:
+                  - /url: /UTsweetyfish
+                  - img "@UTsweetyfish" [ref=f2e1029]
+              - listitem [ref=f2e1030]:
+                - link [ref=f2e1031] [cursor=pointer]:
+                  - /url: /Bedingled403
+                  - img "@Bedingled403" [ref=f2e1032]
+              - listitem [ref=f2e1033]:
+                - link [ref=f2e1034] [cursor=pointer]:
+                  - /url: /w568w
+                  - img "@w568w" [ref=f2e1035]
+              - listitem [ref=f2e1036]:
+                - link [ref=f2e1037] [cursor=pointer]:
+                  - /url: /MysticalMusings
+                  - img "@MysticalMusings" [ref=f2e1038]
+            - link "+ 4 contributors" [ref=f2e1040] [cursor=pointer]:
+              - /url: /amzxyz/rime-wanxiang/graphs/contributors
+          - generic [ref=f2e1041]:
+            - heading "Languages" [level=2] [ref=f2e1042]
+            - 'progressbar "Lua: 100%" [ref=f2e1045]'
+            - list [ref=f2e1046]:
+              - listitem [ref=f2e1047]:
+                - link "Lua 100%" [ref=f2e1048] [cursor=pointer]:
+                  - /url: /amzxyz/rime-wanxiang/search?l=lua
+                  - generic [ref=f2e1050]: Lua
+                  - generic [ref=f2e1051]: 100%
+    - contentinfo [ref=f2e1053]:
+      - heading "Footer" [level=2] [ref=f2e1054]
+      - generic [ref=f2e1055]:
+        - generic [ref=f2e1056]:
+          - link "GitHub Homepage" [ref=f2e1057] [cursor=pointer]:
+            - /url: https://github.com
+          - generic [ref=f2e1060]: © 2026 GitHub, Inc.
+        - navigation "Footer" [ref=f2e1061]:
+          - heading "Footer navigation" [level=3] [ref=f2e1062]
+          - list "Footer navigation" [ref=f2e1063]:
+            - listitem [ref=f2e1064]:
+              - link "Terms" [ref=f2e1065] [cursor=pointer]:
+                - /url: https://docs.github.com/site-policy/github-terms/github-terms-of-service
+            - listitem [ref=f2e1066]:
+              - link "Privacy" [ref=f2e1067] [cursor=pointer]:
+                - /url: https://docs.github.com/site-policy/privacy-policies/github-privacy-statement
+            - listitem [ref=f2e1068]:
+              - link "Security" [ref=f2e1069] [cursor=pointer]:
+                - /url: https://github.com/security
+            - listitem [ref=f2e1070]:
+              - link "Status" [ref=f2e1071] [cursor=pointer]:
+                - /url: https://www.githubstatus.com/
+            - listitem [ref=f2e1072]:
+              - link "Community" [ref=f2e1073] [cursor=pointer]:
+                - /url: https://github.community/
+            - listitem [ref=f2e1074]:
+              - link "Docs" [ref=f2e1075] [cursor=pointer]:
+                - /url: https://docs.github.com/
+            - listitem [ref=f2e1076]:
+              - link "Contact" [ref=f2e1077] [cursor=pointer]:
+                - /url: https://support.github.com?tags=dotcom-footer
+            - listitem [ref=f2e1078]:
+              - button "Manage cookies" [ref=f2e1080] [cursor=pointer]
+            - listitem [ref=f2e1081]:
+              - button "Do not share my personal information" [ref=f2e1083] [cursor=pointer]
+  - alert [ref=f2e1086]

@@ -1,0 +1,3 @@
+[    6884ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ https://collector.github.com/github/collect:0
+[    6884ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ https://collector.github.com/github/collect:0
+[   11832ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ https://collector.github.com/github/collect:0
